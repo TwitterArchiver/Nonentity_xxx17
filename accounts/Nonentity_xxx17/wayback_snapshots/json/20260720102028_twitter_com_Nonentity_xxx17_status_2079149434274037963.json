@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2079118404167057866",
+    "created_at": "2026-07-20T10:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079149434274037963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079149434274037963",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079118404167057866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii 语言魅力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079118395988119552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqDKl7aEAAe_gU.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2079118404167057866",
+        "created_at": "2026-07-20T10:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079149434274037963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079149434274037963",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079118404167057866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 语言魅力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079118395988119552"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2079118404167057866",
+        "created_at": "2026-07-20T08:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079118404167057866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSfjgUti2x",
+              "end": 29,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2079118404167057866/photo/1",
+              "media_key": "3_2079118395988119552",
+              "start": 6,
+              "url": "https://t.co/HSfjgUti2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079118404167057866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆吧都爆吧 https://t.co/HSfjgUti2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 98,
+          "like_count": 3676,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我现在只想一直跟我的天使男孩待在一起然后直接退网",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2077843519004352779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 324,
+          "like_count": 22351,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

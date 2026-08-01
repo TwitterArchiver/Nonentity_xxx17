@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2080980229976441235",
+    "created_at": "2026-07-25T13:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081009378040361124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        },
+        {
+          "end": 29,
+          "id": "1964331185590718464",
+          "start": 16,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081009378040361124",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080990951074582649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw @breakcoreWTF 你就是歌姬吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2080980229976441235",
+        "created_at": "2026-07-25T13:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081009378040361124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 29,
+              "id": "1964331185590718464",
+              "start": 16,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081009378040361124",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080990951074582649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw @breakcoreWTF 你就是歌姬吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2080980229976441235",
+        "created_at": "2026-07-25T12:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080990951074582649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080990951074582649",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080980229976441235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 我也是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士  还阳十九\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 98,
+          "like_count": 3816,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3499,
+          "following_count": 259,
+          "like_count": 1550,
+          "listed_count": 5,
+          "media_count": 184,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 810,
+          "like_count": 34687,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 6248
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      }
+    ]
+  }
+}

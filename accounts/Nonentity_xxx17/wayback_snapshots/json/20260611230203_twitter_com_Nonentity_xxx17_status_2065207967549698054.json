@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065207956069830656"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065207967549698054",
+    "created_at": "2026-06-11T23:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065207967549698054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SaRWZiNPMc",
+          "end": 29,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2065207967549698054/photo/1",
+          "media_key": "3_2065207956069830656",
+          "start": 6,
+          "url": "https://t.co/SaRWZiNPMc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065207967549698054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发动魔法牌 https://t.co/SaRWZiNPMc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065207956069830656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkXsbDaUAAZ79R.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065207956069830656"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065207967549698054",
+        "created_at": "2026-06-11T23:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065207967549698054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaRWZiNPMc",
+              "end": 29,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2065207967549698054/photo/1",
+              "media_key": "3_2065207956069830656",
+              "start": 6,
+              "url": "https://t.co/SaRWZiNPMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065207967549698054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发动魔法牌 https://t.co/SaRWZiNPMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 50,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 402
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

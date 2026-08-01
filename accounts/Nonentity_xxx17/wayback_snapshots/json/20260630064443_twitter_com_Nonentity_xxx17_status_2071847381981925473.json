@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2071831734765682955",
+    "created_at": "2026-06-30T06:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071847381981925473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050123913469067266",
+          "start": 0,
+          "username": "Lili716000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071847381981925473",
+    "in_reply_to_user_id": "2050123913469067266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071831734765682955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lili716000 嘬嘬嘬"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "13_2071831636086304768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071831636086304768/img/qqF9qEznh-QrKFG9.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071831636086304768/vid/avc1/320x568/oOP6DE_QIPJKDuTY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071831636086304768/vid/avc1/480x852/-9n4boZ0nQ4Cwfp9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071831636086304768/vid/avc1/720x1280/WBnSrYa1ETQyMlV-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071831636086304768/pl/IelBaBhFGQcc5Zfj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2071831734765682955",
+        "created_at": "2026-06-30T06:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071847381981925473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050123913469067266",
+              "start": 0,
+              "username": "Lili716000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071847381981925473",
+        "in_reply_to_user_id": "2050123913469067266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071831734765682955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lili716000 嘬嘬嘬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071831636086304768"
+          ]
+        },
+        "author_id": "2050123913469067266",
+        "conversation_id": "2071831734765682955",
+        "created_at": "2026-06-30T05:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071831734765682955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "小狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3dUqeKkXg",
+              "end": 27,
+              "expanded_url": "https://x.com/Lili716000/status/2071831734765682955/video/1",
+              "media_key": "13_2071831636086304768",
+              "start": 4,
+              "url": "https://t.co/v3dUqeKkXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071831734765682955",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#小狗 https://t.co/v3dUqeKkXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 88,
+          "like_count": 3064,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T08:04:44.000Z",
+        "description": "🚪长得帅或者68口令女生不用\n直女\n想认识我的私信聊天呀！",
+        "id": "2050123913469067266",
+        "name": "Lili",
+        "pinned_tweet_id": "2055587345928519888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050124345364946944/Rx5ar1yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 39,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "Lili716000",
+        "verified": false
+      }
+    ]
+  }
+}

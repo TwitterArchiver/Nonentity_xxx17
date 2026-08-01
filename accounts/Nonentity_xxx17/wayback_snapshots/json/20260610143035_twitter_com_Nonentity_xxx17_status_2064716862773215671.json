@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2064710654574150097",
+    "created_at": "2026-06-10T14:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064716862773215671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051195377420992512",
+          "start": 0,
+          "username": "Rain7x6y"
+        },
+        {
+          "end": 23,
+          "id": "1700948552078467072",
+          "start": 10,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064716862773215671",
+    "in_reply_to_user_id": "2051195377420992512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064715559909113978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain7x6y @Overdose_DBD 他就是磕大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064710654574150097",
+        "created_at": "2026-06-10T14:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064716862773215671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051195377420992512",
+              "start": 0,
+              "username": "Rain7x6y"
+            },
+            {
+              "end": 23,
+              "id": "1700948552078467072",
+              "start": 10,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064716862773215671",
+        "in_reply_to_user_id": "2051195377420992512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064715559909113978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain7x6y @Overdose_DBD 他就是磕大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051195377420992512",
+        "conversation_id": "2064710654574150097",
+        "created_at": "2026-06-10T14:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064715559909113978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064715559909113978",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064710654574150097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 你像磕大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 44,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 388
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "我玉玉了\n前世@naijin66998\n喜欢的人@lilibr0k3n33 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "naijin66998"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "lilibr0k3n33"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "ovocaize"
+              }
+            ]
+          }
+        },
+        "id": "2051195377420992512",
+        "name": "冬雪Rain👁️二世",
+        "pinned_tweet_id": "2051340519104762248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 103,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 142
+        },
+        "username": "Rain7x6y",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "高原整活观景台 https://t.co/ALu7jA4oBj\n有事请点击https://t.co/VRpZNWqcKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 31,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 8,
+                "url": "https://t.co/ALu7jA4oBj"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 60,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 37,
+                "url": "https://t.co/VRpZNWqcKT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 68,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 733,
+          "tweet_count": 7212
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

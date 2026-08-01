@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2075493139176112559",
+    "created_at": "2026-07-10T08:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075493139176112559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jinggebiezhuaw…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/jinggebiezhuaw/status/2075461975770087523",
+          "start": 8,
+          "url": "https://t.co/QZ91D8fVqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075493139176112559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075461975770087523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👽外星人说话了 https://t.co/QZ91D8fVqh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2075493139176112559",
+        "created_at": "2026-07-10T08:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075493139176112559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinggebiezhuaw…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/jinggebiezhuaw/status/2075461975770087523",
+              "start": 8,
+              "url": "https://t.co/QZ91D8fVqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075493139176112559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075461975770087523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👽外星人说话了 https://t.co/QZ91D8fVqh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2075461975770087523",
+        "created_at": "2026-07-10T06:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075461975770087523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1518404201168007168",
+              "start": 37,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 68,
+              "id": "1919465517829783552",
+              "start": 52,
+              "username": "Nonentity_xxx17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2075320849905893558",
+              "start": 69,
+              "url": "https://t.co/akMMbDJkvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075461975770087523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075320849905893558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我迷幻剂掉洞了，小兴和旭子在自己也大着的情况下把我拽回来了😭最好的闺蜜呀！@godspeedyou50 @Nonentity_xxx17 https://t.co/akMMbDJkvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 90,
+          "like_count": 3404,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3333,
+          "following_count": 465,
+          "like_count": 1171,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

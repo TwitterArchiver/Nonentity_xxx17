@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066434799640973611",
+    "created_at": "2026-06-15T08:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066442497895936287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1677907172695633920",
+          "start": 0,
+          "username": "Chapaa33333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066442497895936287",
+    "in_reply_to_user_id": "1677907172695633920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066434799640973611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chapaa33333 全国中学生广播体操 舞动青春 现在开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066434799640973611",
+        "created_at": "2026-06-15T08:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066442497895936287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1677907172695633920",
+              "start": 0,
+              "username": "Chapaa33333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066442497895936287",
+        "in_reply_to_user_id": "1677907172695633920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066434799640973611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chapaa33333 全国中学生广播体操 舞动青春 现在开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677907172695633920",
+        "conversation_id": "2066434799640973611",
+        "created_at": "2026-06-15T08:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066434799640973611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066434799640973611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "消毒太疼了，疼得我一边消毒一边喊着节拍跳广播体操。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 60,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 463
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T05:07:07.000Z",
+        "description": "我要明明白白地忍受这一切。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chapaahihhy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chapaahihhy",
+                "start": 0,
+                "url": "https://t.co/2rtWDmFuX2"
+              }
+            ]
+          }
+        },
+        "id": "1677907172695633920",
+        "location": "小雨和猫。",
+        "name": "匹诺曹",
+        "pinned_tweet_id": "1918691801940337152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945918352800571392/XGPeQEIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 110,
+          "like_count": 10307,
+          "listed_count": 18,
+          "media_count": 336,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/2rtWDmFuX2",
+        "username": "Chapaa33333",
+        "verified": false
+      }
+    ]
+  }
+}

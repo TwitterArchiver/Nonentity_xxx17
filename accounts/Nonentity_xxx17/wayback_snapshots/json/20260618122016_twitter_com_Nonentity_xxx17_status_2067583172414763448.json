@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2067580389208850885",
+    "created_at": "2026-06-18T12:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067583172414763448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067583172414763448",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067580389208850885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2067580389208850885",
+        "created_at": "2026-06-18T12:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067583172414763448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067583172414763448",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067580389208850885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2067580389208850885",
+        "created_at": "2026-06-18T12:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067580389208850885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/breakcorewtf/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/breakcorewtf/status/2067579178581688817",
+              "start": 18,
+              "url": "https://t.co/dgwPYMbcAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067580389208850885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067579178581688817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种的都没治了 把家长拎过来找我吧 https://t.co/dgwPYMbcAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 八字 算卦👉 @godspeedyou50\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "godspeedyou50"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 74,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 51,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 79,
+          "like_count": 2294,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 513
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2048720319872192919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 357,
+          "like_count": 1176,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2733
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

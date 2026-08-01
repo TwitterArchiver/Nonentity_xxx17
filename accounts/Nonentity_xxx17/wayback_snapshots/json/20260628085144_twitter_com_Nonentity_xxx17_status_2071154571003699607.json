@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2070773344522346758",
+    "created_at": "2026-06-28T08:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071154571003699607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        },
+        {
+          "end": 25,
+          "id": "1962425480612851712",
+          "start": 14,
+          "username": "yaowubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071154571003699607",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070787521831928315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu @yaowubaike 你上榜啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2070773344522346758",
+        "created_at": "2026-06-28T08:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071154571003699607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 25,
+              "id": "1962425480612851712",
+              "start": 14,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071154571003699607",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070787521831928315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu @yaowubaike 你上榜啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2070773344522346758",
+        "created_at": "2026-06-27T08:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070787521831928315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070787521831928315",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070773344522346758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 流批"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 81,
+          "like_count": 2879,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 1070,
+          "like_count": 5101,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 57,
+          "like_count": 693,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066713819200757929",
+    "created_at": "2026-06-16T02:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066716883693502515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530574799130738688",
+          "start": 0,
+          "username": "chusilaifugogo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066716883693502515",
+    "in_reply_to_user_id": "1530574799130738688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066713819200757929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chusilaifugogo 喷泉老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2066713812368240640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5xQy6aMAA56pp.jpg",
+        "width": 300
+      },
+      {
+        "height": 288,
+        "media_key": "3_2066713812372480000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5xQy7a4AAM-sM.jpg",
+        "width": 300
+      },
+      {
+        "height": 396,
+        "media_key": "3_2066713812435456001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5xQzKb0AENmem.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066713819200757929",
+        "created_at": "2026-06-16T02:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066716883693502515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530574799130738688",
+              "start": 0,
+              "username": "chusilaifugogo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066716883693502515",
+        "in_reply_to_user_id": "1530574799130738688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066713819200757929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chusilaifugogo 喷泉老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066713812368240640",
+            "3_2066713812372480000",
+            "3_2066713812435456001"
+          ]
+        },
+        "author_id": "1530574799130738688",
+        "conversation_id": "2066713819200757929",
+        "created_at": "2026-06-16T02:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066713819200757929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmQve3l9ES",
+              "end": 39,
+              "expanded_url": "https://x.com/chusilaifugogo/status/2066713819200757929/photo/1",
+              "media_key": "3_2066713812368240640",
+              "start": 16,
+              "url": "https://t.co/fmQve3l9ES"
+            },
+            {
+              "display_url": "pic.x.com/fmQve3l9ES",
+              "end": 39,
+              "expanded_url": "https://x.com/chusilaifugogo/status/2066713819200757929/photo/1",
+              "media_key": "3_2066713812372480000",
+              "start": 16,
+              "url": "https://t.co/fmQve3l9ES"
+            },
+            {
+              "display_url": "pic.x.com/fmQve3l9ES",
+              "end": 39,
+              "expanded_url": "https://x.com/chusilaifugogo/status/2066713819200757929/photo/1",
+              "media_key": "3_2066713812435456001",
+              "start": 16,
+              "url": "https://t.co/fmQve3l9ES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066713819200757929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tmd看个小说给我看的湿了轰的 https://t.co/fmQve3l9ES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 63,
+          "like_count": 1899,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 490
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T15:40:59.000Z",
+        "description": "apple猫重出江湖！不定时更新！and有占卜需要找这个宝宝！@kill_this_hate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkkkkk%E5%A1%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkkkkk%E5%A1%91",
+                "start": 0,
+                "url": "https://t.co/A7Ryj1UcwD"
+              }
+            ]
+          }
+        },
+        "id": "1530574799130738688",
+        "location": "Golden",
+        "name": "gg猫",
+        "pinned_tweet_id": "2057278327946449173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066379155521069056/Bpdzcm6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 3692,
+          "like_count": 13073,
+          "listed_count": 26,
+          "media_count": 40,
+          "tweet_count": 3039
+        },
+        "url": "https://t.co/A7Ryj1UcwD",
+        "username": "chusilaifugogo",
+        "verified": false
+      }
+    ]
+  }
+}

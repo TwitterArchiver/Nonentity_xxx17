@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066530094408159587",
+    "created_at": "2026-06-16T03:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066731453992632406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2065335080265093121",
+          "start": 0,
+          "username": "MaoYe119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066731453992632406",
+    "in_reply_to_user_id": "2065335080265093121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066676380461629571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoYe119 就是动图ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-16T03:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066731453992632406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2065335080265093121",
+              "start": 0,
+              "username": "MaoYe119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066731453992632406",
+        "in_reply_to_user_id": "2065335080265093121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066676380461629571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoYe119 就是动图ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-16T00:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066676380461629571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066676380461629571",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530094408159587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 昨天药效里，我还以为你这张是视频，看着动了半天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 63,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 493
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "@Koroshiiiiiii哑巴\n我叫小冶，第二人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 33,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "username": "MaoYe119",
+        "verified": false
+      }
+    ]
+  }
+}

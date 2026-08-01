@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2075166949093556318",
+    "created_at": "2026-07-09T12:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075189825880391906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        },
+        {
+          "end": 24,
+          "id": "1518404201168007168",
+          "start": 10,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075189825880391906",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075184726436975097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_tom0e_x @godspeedyou50 哎呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2075166949093556318",
+        "created_at": "2026-07-09T12:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075189825880391906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            },
+            {
+              "end": 24,
+              "id": "1518404201168007168",
+              "start": 10,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075189825880391906",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075184726436975097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_tom0e_x @godspeedyou50 哎呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534344658033180672",
+        "conversation_id": "2075166949093556318",
+        "created_at": "2026-07-09T11:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075184726436975097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075184726436975097",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075166949093556318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 那是你的兄弟吗？🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 90,
+          "like_count": 3407,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2065990778090926196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074500406969782272/mz4Isnh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 132,
+          "like_count": 48527,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2629
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 565,
+          "like_count": 1266,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

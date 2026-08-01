@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2071197578839142479",
+    "created_at": "2026-06-28T11:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071197578839142479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rjybaby/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/rjybaby/status/2005309718613672392",
+          "start": 18,
+          "url": "https://t.co/27StwAx2V9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071197578839142479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005309718613672392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打舌钉就是为了舔逼的 怎！么！了！ https://t.co/27StwAx2V9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2005309711596273664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RKjuBWQAAD6C9.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2071197578839142479",
+        "created_at": "2026-06-28T11:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071197578839142479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rjybaby/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/rjybaby/status/2005309718613672392",
+              "start": 18,
+              "url": "https://t.co/27StwAx2V9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071197578839142479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005309718613672392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打舌钉就是为了舔逼的 怎！么！了！ https://t.co/27StwAx2V9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005309711596273664"
+          ]
+        },
+        "author_id": "1717365314894127104",
+        "conversation_id": "2005309718613672392",
+        "created_at": "2025-12-28T16:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005309718613672392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FValnmfK1L",
+              "end": 35,
+              "expanded_url": "https://x.com/RJYbaby/status/2005309718613672392/photo/1",
+              "media_key": "3_2005309711596273664",
+              "start": 12,
+              "url": "https://t.co/FValnmfK1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005309718613672392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1648,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说！打舌钉要干什么？？ https://t.co/FValnmfK1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 82,
+          "like_count": 2887,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T02:19:49.000Z",
+        "description": "这里小鸢~",
+        "id": "1717365314894127104",
+        "location": "❤️",
+        "name": "阿鸢鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769176630680018944/hA6ks6es_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 89,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "RJYbaby",
+        "verified": false
+      }
+    ]
+  }
+}

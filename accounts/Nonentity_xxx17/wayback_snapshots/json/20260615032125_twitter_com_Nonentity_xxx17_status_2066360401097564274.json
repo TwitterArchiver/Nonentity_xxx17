@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066351718464421980",
+    "created_at": "2026-06-15T03:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066360401097564274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530574799130738688",
+          "start": 0,
+          "username": "chusilaifugogo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066360401097564274",
+    "in_reply_to_user_id": "1530574799130738688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066351718464421980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chusilaifugogo 就在下面视奸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2066351712462417921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0n7zpXsAEtoyh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066351718464421980",
+        "created_at": "2026-06-15T03:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066360401097564274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530574799130738688",
+              "start": 0,
+              "username": "chusilaifugogo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066360401097564274",
+        "in_reply_to_user_id": "1530574799130738688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066351718464421980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chusilaifugogo 就在下面视奸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066351712462417921"
+          ]
+        },
+        "author_id": "1530574799130738688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066351718464421980",
+        "created_at": "2026-06-15T02:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066351718464421980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/8yIiI2ZIyy"
+            },
+            {
+              "display_url": "pic.x.com/OYwyBHYPc6",
+              "end": 64,
+              "expanded_url": "https://x.com/333slmslm/status/2066351718464421980/photo/1",
+              "media_key": "3_2066351712462417921",
+              "start": 41,
+              "url": "https://t.co/OYwyBHYPc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066351718464421980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/8yIiI2ZIyy https://t.co/OYwyBHYPc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 60,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 460
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T15:40:59.000Z",
+        "description": "apple猫重出江湖！不定时更新！and有占卜需要找这个宝宝！@kill_this_hate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkkkkk%E5%A1%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkkkkk%E5%A1%91",
+                "start": 0,
+                "url": "https://t.co/A7Ryj1UcwD"
+              }
+            ]
+          }
+        },
+        "id": "1530574799130738688",
+        "location": "Golden",
+        "name": "gg猫",
+        "pinned_tweet_id": "2057278327946449173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940260592641507328/Yd3phPbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6077,
+          "following_count": 3676,
+          "like_count": 12963,
+          "listed_count": 26,
+          "media_count": 39,
+          "tweet_count": 3017
+        },
+        "url": "https://t.co/A7Ryj1UcwD",
+        "username": "chusilaifugogo",
+        "verified": false
+      }
+    ]
+  }
+}

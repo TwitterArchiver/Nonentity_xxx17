@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2065751493610033354",
+    "created_at": "2026-06-13T11:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065751493610033354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxx_kkkl/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/xxx_kkkl/status/2065750701100404868",
+          "start": 27,
+          "url": "https://t.co/7aASIc7NET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065751493610033354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065750701100404868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Jahseh秽土转生到我的老资历号了 别管了 找他吧 https://t.co/7aASIc7NET"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2065751493610033354",
+        "created_at": "2026-06-13T11:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065751493610033354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_kkkl/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xxx_kkkl/status/2065750701100404868",
+              "start": 27,
+              "url": "https://t.co/7aASIc7NET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065751493610033354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065750701100404868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Jahseh秽土转生到我的老资历号了 别管了 找他吧 https://t.co/7aASIc7NET"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384831606276476930",
+        "conversation_id": "2065750701100404868",
+        "created_at": "2026-06-13T10:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065750701100404868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065750701100404868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼玛 是我 我是一直以来陪伴你们的Jahseh尝试复活请转帖\n我是可爱的买糖果的小姑娘呀…..\n（飘飘、棉花代）\n瓦楞斯的奴才吧可能是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 Jahseh秽土转生到这里了@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔/我要学药理！！！\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 91,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 68,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 53,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 433
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "活人死的",
+        "id": "1384831606276476930",
+        "name": "Jahseh（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063407227109814272/vmLa_cc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 12,
+          "like_count": 51,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066337972379877801",
+    "created_at": "2026-06-15T01:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066337972379877801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaw/status/20…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/miaw/status/2066142359515963793",
+          "start": 11,
+          "url": "https://t.co/2HG4Wc43n2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066337972379877801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066142359515963793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈好可爱！ https://t.co/2HG4Wc43n2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7594,
+        "height": 576,
+        "media_key": "13_2066106267928788992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066106267928788992/img/h93fRaDWqK7Vk2NV.jpg",
+        "public_metrics": {
+          "view_count": 42855
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066106267928788992/vid/avc1/480x270/6kCA7mjziZxSykjE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066106267928788992/vid/avc1/640x360/Ei6wuZHM7ksBZm2d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066106267928788992/vid/avc1/1024x576/SZzPXsJjSJoYAN96.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066106267928788992/pl/jhJKRGxi8GlrQ-MR.m3u8"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066337972379877801",
+        "created_at": "2026-06-15T01:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066337972379877801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaw/status/20…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/miaw/status/2066142359515963793",
+              "start": 11,
+              "url": "https://t.co/2HG4Wc43n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066337972379877801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142359515963793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈好可爱！ https://t.co/2HG4Wc43n2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066106267928788992"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "2066142359515963793",
+        "created_at": "2026-06-14T12:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142359515963793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6NOhNnEo5",
+              "end": 53,
+              "expanded_url": "https://x.com/Miaw/status/2066142359515963793/video/1",
+              "media_key": "13_2066106267928788992",
+              "start": 30,
+              "url": "https://t.co/y6NOhNnEo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142359515963793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 145799,
+          "like_count": 8682,
+          "quote_count": 29,
+          "reply_count": 24,
+          "retweet_count": 818
+        },
+        "reply_settings": "everyone",
+        "text": "😺 : WAAAKEEEEEEE UUUUUUPPPPPP https://t.co/y6NOhNnEo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 59,
+          "like_count": 1790,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 459
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123011,
+          "following_count": 0,
+          "like_count": 55,
+          "listed_count": 297,
+          "media_count": 3383,
+          "tweet_count": 3411
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

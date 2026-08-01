@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066530094408159587",
+    "created_at": "2026-06-15T15:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066543260357829071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "872628231030976512",
+          "start": 0,
+          "username": "Oitsornbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066543260357829071",
+    "in_reply_to_user_id": "872628231030976512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066538542898295163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oitsornbb 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-15T15:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066543260357829071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "872628231030976512",
+              "start": 0,
+              "username": "Oitsornbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066543260357829071",
+        "in_reply_to_user_id": "872628231030976512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066538542898295163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oitsornbb 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872628231030976512",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-15T15:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066538542898295163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066538542898295163",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530094408159587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 好漂亮啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 63,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 472
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-08T01:35:57.000Z",
+        "description": "別再寂寞地擁抱",
+        "id": "872628231030976512",
+        "location": "‎♡‧₊ 𓏵 ₊‧♡宇宙中心‎♡‧₊ 𓏵 ₊‧♡",
+        "name": "小咬",
+        "pinned_tweet_id": "2031026880766464037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061854183066615808/pKozLz7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 159,
+          "like_count": 4675,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1747
+        },
+        "username": "Oitsornbb",
+        "verified": false
+      }
+    ]
+  }
+}

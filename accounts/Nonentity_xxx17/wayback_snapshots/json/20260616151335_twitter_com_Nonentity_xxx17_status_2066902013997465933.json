@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066901324827169094",
+    "created_at": "2026-06-16T15:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066902013997465933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978128183875514369",
+          "start": 0,
+          "username": "na_an31255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066902013997465933",
+    "in_reply_to_user_id": "1978128183875514369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066901725735473496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@na_an31255 一群好的蛋白质会更好呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066901324827169094",
+        "created_at": "2026-06-16T15:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066902013997465933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978128183875514369",
+              "start": 0,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066902013997465933",
+        "in_reply_to_user_id": "1978128183875514369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066901725735473496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na_an31255 一群好的蛋白质会更好呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978128183875514369",
+        "conversation_id": "2066901324827169094",
+        "created_at": "2026-06-16T15:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066901725735473496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066901725735473496",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066901647381697011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 那我不白刷了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 69,
+          "like_count": 1952,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 513
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "小草&我/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an%E2%80%86na2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/an%E2%80%86na2",
+                "start": 0,
+                "url": "https://t.co/801rxjZEP7"
+              }
+            ]
+          }
+        },
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 172,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/801rxjZEP7",
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

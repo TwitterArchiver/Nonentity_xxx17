@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2071597622163570948",
+    "created_at": "2026-06-30T07:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071861121297027449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1978128183875514369",
+          "start": 0,
+          "username": "na_an31255"
+        },
+        {
+          "end": 26,
+          "id": "1518404201168007168",
+          "start": 12,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071861121297027449",
+    "in_reply_to_user_id": "1978128183875514369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071860120611606635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@na_an31255 @godspeedyou50 大大小小就没有我不会的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2071597622163570948",
+        "created_at": "2026-06-30T07:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071861121297027449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1978128183875514369",
+              "start": 0,
+              "username": "na_an31255"
+            },
+            {
+              "end": 26,
+              "id": "1518404201168007168",
+              "start": 12,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071861121297027449",
+        "in_reply_to_user_id": "1978128183875514369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071860120611606635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na_an31255 @godspeedyou50 大大小小就没有我不会的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978128183875514369",
+        "conversation_id": "2071597622163570948",
+        "created_at": "2026-06-30T07:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071860120611606635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071860120611606635",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071597622163570948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 美人哥好人妻，好贤惠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 88,
+          "like_count": 3077,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "小草&我/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an%E2%80%86na2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/an%E2%80%86na2",
+                "start": 0,
+                "url": "https://t.co/801rxjZEP7"
+              }
+            ]
+          }
+        },
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 179,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/801rxjZEP7",
+        "username": "na_an31255",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众道德良知的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 546,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2818
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

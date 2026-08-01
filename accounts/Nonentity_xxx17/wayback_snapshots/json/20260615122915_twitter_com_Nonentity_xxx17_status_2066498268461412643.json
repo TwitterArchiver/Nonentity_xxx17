@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066482737763189186",
+    "created_at": "2026-06-15T12:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066498268461412643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047631836864483328",
+          "start": 0,
+          "username": "TuT_1Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066498268461412643",
+    "in_reply_to_user_id": "2047631836864483328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066482737763189186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT_1Apple 我推荐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066482737763189186",
+        "created_at": "2026-06-15T12:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066498268461412643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066498268461412643",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066482737763189186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple 我推荐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047631836864483328",
+        "conversation_id": "2066482737763189186",
+        "created_at": "2026-06-15T11:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066482737763189186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066482737763189186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想尝试飘飘糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 60,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 470
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le 0.2｜双相重焦OD｜无门\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 32,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

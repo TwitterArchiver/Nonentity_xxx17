@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2080975212833894680",
+    "created_at": "2026-07-25T11:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080975212833894680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pharmakon14138…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/pharmakon14138/status/2080969289079849043",
+          "start": 5,
+          "url": "https://t.co/ZAGF62HspV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080975212833894680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080969289079849043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新入口😋 https://t.co/ZAGF62HspV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080969280548720640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEWiQObUAA7s8Q.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2080975212833894680",
+        "created_at": "2026-07-25T11:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080975212833894680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pharmakon14138…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/pharmakon14138/status/2080969289079849043",
+              "start": 5,
+              "url": "https://t.co/ZAGF62HspV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080975212833894680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080969289079849043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新入口😋 https://t.co/ZAGF62HspV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080969280548720640"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2080969289079849043",
+        "created_at": "2026-07-25T10:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080969289079849043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1K9uMhyUJ7",
+              "end": 77,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2080969289079849043/photo/1",
+              "media_key": "3_2080969280548720640",
+              "start": 54,
+              "url": "https://t.co/1K9uMhyUJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080969289079849043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我被击落了 老爷们 未处理订单一定来找我 回了一天的消息发现都没发出去😭😭\n转世的事儿晚点再说 心是真的累 https://t.co/1K9uMhyUJ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士  还阳十九\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 98,
+          "like_count": 3802,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      }
+    ]
+  }
+}

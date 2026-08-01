@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2074200971350282602",
+    "created_at": "2026-07-06T23:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T00:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074277134810718329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "1willhateu4ever"
+        },
+        {
+          "end": 29,
+          "id": "2049837033191837696",
+          "start": 17,
+          "username": "misak101108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074277134810718329",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074201534196548018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1willhateu4ever @misak101108 躺枪什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2074200971350282602",
+        "created_at": "2026-07-06T23:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074277134810718329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "1willhateu4ever"
+            },
+            {
+              "end": 29,
+              "id": "2049837033191837696",
+              "start": 17,
+              "username": "misak101108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074277134810718329",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074201534196548018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1willhateu4ever @misak101108 躺枪什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990083055231631361",
+        "conversation_id": "2074200971350282602",
+        "created_at": "2026-07-06T18:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074201534196548018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049837033191837696",
+              "start": 0,
+              "username": "misak101108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074201534196548018",
+        "in_reply_to_user_id": "2049837033191837696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074200971350282602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misak101108 东北长发男死妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 88,
+          "like_count": 3298,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "pinned_tweet_id": "2062942397936570706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066349504065060864/1f_32sh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 47,
+          "like_count": 6384,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 4086
+        },
+        "url": "",
+        "username": "1willhateu4ever",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T13:03:37.000Z",
+        "description": "",
+        "id": "2049837033191837696",
+        "name": "小煜y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063625379647287296/-aQXZQE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 28,
+          "like_count": 2607,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "misak101108",
+        "verified": false
+      }
+    ]
+  }
+}

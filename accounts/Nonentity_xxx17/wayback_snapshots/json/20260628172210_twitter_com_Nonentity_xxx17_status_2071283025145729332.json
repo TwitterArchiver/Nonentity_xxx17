@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071283016392216577"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "conversation_id": "2071283025145729332",
+    "created_at": "2026-06-28T17:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071283025145729332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PLGZvhtMRq",
+          "end": 35,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2071283025145729332/photo/1",
+          "media_key": "3_2071283016392216577",
+          "start": 12,
+          "url": "https://t.co/PLGZvhtMRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071283025145729332",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Clean Day 8 https://t.co/PLGZvhtMRq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071283016392216577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6s7eVbkAEIrLI.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071283016392216577"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2071283025145729332",
+        "created_at": "2026-06-28T17:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071283025145729332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLGZvhtMRq",
+              "end": 35,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2071283025145729332/photo/1",
+              "media_key": "3_2071283016392216577",
+              "start": 12,
+              "url": "https://t.co/PLGZvhtMRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071283025145729332",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Clean Day 8 https://t.co/PLGZvhtMRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 84,
+          "like_count": 2941,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

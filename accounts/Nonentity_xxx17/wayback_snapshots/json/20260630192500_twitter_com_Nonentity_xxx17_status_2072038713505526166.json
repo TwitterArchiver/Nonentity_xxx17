@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072038705888636928",
+        "3_2072038705892839424",
+        "3_2072038705884442624"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072038713505526166",
+    "created_at": "2026-06-30T19:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T20:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072038713505526166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/omjbdYmnz6",
+          "end": 73,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2072038713505526166/photo/1",
+          "media_key": "3_2072038705888636928",
+          "start": 50,
+          "url": "https://t.co/omjbdYmnz6"
+        },
+        {
+          "display_url": "pic.x.com/omjbdYmnz6",
+          "end": 73,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2072038713505526166/photo/1",
+          "media_key": "3_2072038705892839424",
+          "start": 50,
+          "url": "https://t.co/omjbdYmnz6"
+        },
+        {
+          "display_url": "pic.x.com/omjbdYmnz6",
+          "end": 73,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2072038713505526166/photo/1",
+          "media_key": "3_2072038705884442624",
+          "start": 50,
+          "url": "https://t.co/omjbdYmnz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072038713505526166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "佛珠贴票看在超市后门抽烟的二人剧烈变形了 \n我：你他妈怎么出现在离家52km外的？\n佛珠：我不到啊 https://t.co/omjbdYmnz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2072038705888636928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFcOZFaMAA3mDl.jpg",
+        "width": 600
+      },
+      {
+        "height": 935,
+        "media_key": "3_2072038705892839424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFcOZGaUAA8tdq.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072038705884442624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFcOZEaMAAqXA-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072038705888636928",
+            "3_2072038705892839424",
+            "3_2072038705884442624"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072038713505526166",
+        "created_at": "2026-06-30T19:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072038713505526166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omjbdYmnz6",
+              "end": 73,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2072038713505526166/photo/1",
+              "media_key": "3_2072038705888636928",
+              "start": 50,
+              "url": "https://t.co/omjbdYmnz6"
+            },
+            {
+              "display_url": "pic.x.com/omjbdYmnz6",
+              "end": 73,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2072038713505526166/photo/1",
+              "media_key": "3_2072038705892839424",
+              "start": 50,
+              "url": "https://t.co/omjbdYmnz6"
+            },
+            {
+              "display_url": "pic.x.com/omjbdYmnz6",
+              "end": 73,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2072038713505526166/photo/1",
+              "media_key": "3_2072038705884442624",
+              "start": 50,
+              "url": "https://t.co/omjbdYmnz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072038713505526166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "佛珠贴票看在超市后门抽烟的二人剧烈变形了 \n我：你他妈怎么出现在离家52km外的？\n佛珠：我不到啊 https://t.co/omjbdYmnz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 87,
+          "like_count": 3125,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

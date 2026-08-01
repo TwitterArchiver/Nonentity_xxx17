@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066530094408159587",
+    "created_at": "2026-06-15T14:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066532293309858071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066532293309858071",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066531907333222526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie 真的吗！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-15T14:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066532293309858071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066532293309858071",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066531907333222526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie 真的吗！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655773502160896",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-15T14:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066531907333222526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066531907333222526",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530094408159587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 我操，这张真绝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 61,
+          "like_count": 1841,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 469
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "05 地雷/量产 你们可以叫我kaki/小卉\n欢迎互fo互转！！\n纯交朋友来的\n男的别关注别骚扰别评论不收门槛\n男的别私信不然我会问候你全家",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 64,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

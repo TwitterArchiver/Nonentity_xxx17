@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069817956968845321"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "conversation_id": "2069814682513445273",
+    "created_at": "2026-06-24T16:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069817966078873789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFUnsxFQId",
+          "end": 39,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2069817966078873789/photo/1",
+          "media_key": "3_2069817956968845321",
+          "start": 16,
+          "url": "https://t.co/gFUnsxFQId"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069817966078873789",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069814682513445273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw https://t.co/gFUnsxFQId"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2069817956968845321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl4dyraUAkK9bo.jpg",
+        "width": 1076
+      },
+      {
+        "duration_ms": 6818,
+        "height": 960,
+        "media_key": "13_2069814616905887745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069814616905887745/img/gq7Z4PybHzwAdA-t.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069814616905887745/vid/avc1/320x426/0Sr0h1BeoAJz6rYO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069814616905887745/vid/avc1/480x640/bXrqZzW_uwPjADTT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069814616905887745/vid/avc1/720x960/mOzM-yyt5NEu0c09.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069814616905887745/pl/VCkqsPsKtxhnBOl_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069817956968845321"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2069814682513445273",
+        "created_at": "2026-06-24T16:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069817966078873789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFUnsxFQId",
+              "end": 39,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2069817966078873789/photo/1",
+              "media_key": "3_2069817956968845321",
+              "start": 16,
+              "url": "https://t.co/gFUnsxFQId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069817966078873789",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069814682513445273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw https://t.co/gFUnsxFQId"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069814616905887745"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2069814682513445273",
+        "created_at": "2026-06-24T16:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069814682513445273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfpE0xF3OT",
+              "end": 92,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2069814682513445273/video/1",
+              "media_key": "13_2069814616905887745",
+              "start": 69,
+              "url": "https://t.co/zfpE0xF3OT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069814682513445273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我只是很会化妆，我平常真的很丑，很像被吸干了阳气的老鼠。这是我不洗头不化妆的样子，戴个美瞳是因为我没配眼镜看不清电脑。今日来祛魅吧！ https://t.co/zfpE0xF3OT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 78,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 445,
+          "like_count": 1118,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066437691840069651",
+    "created_at": "2026-06-16T03:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066719255505342800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1755347076362514432",
+          "start": 0,
+          "username": "SunRen7frr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066719255505342800",
+    "in_reply_to_user_id": "1755347076362514432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066437691840069651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunRen7frr 那就不得不提到瓦瓦的棉花糖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066437691840069651",
+        "created_at": "2026-06-16T03:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066719255505342800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755347076362514432",
+              "start": 0,
+              "username": "SunRen7frr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066719255505342800",
+        "in_reply_to_user_id": "1755347076362514432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066437691840069651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunRen7frr 那就不得不提到瓦瓦的棉花糖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755347076362514432",
+        "conversation_id": "2066437691840069651",
+        "created_at": "2026-06-15T08:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066437691840069651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066437691840069651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1196,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我解离，给我拥抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 63,
+          "like_count": 1905,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 493
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T21:45:39.000Z",
+        "description": "",
+        "id": "1755347076362514432",
+        "location": "v100好友位288/388/520/1314",
+        "name": "嫣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054113220579999744/ZNZmda4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19263,
+          "following_count": 12,
+          "like_count": 7972,
+          "listed_count": 70,
+          "media_count": 84,
+          "tweet_count": 477
+        },
+        "username": "SunRen7frr",
+        "verified": false
+      }
+    ]
+  }
+}

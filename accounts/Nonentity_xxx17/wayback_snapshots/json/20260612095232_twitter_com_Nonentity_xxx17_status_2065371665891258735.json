@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2065358129647489245",
+    "created_at": "2026-06-12T09:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065371665891258735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "kuroki___tomoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065371665891258735",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065370035460461006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroki___tomoko 番的话 万神殿  游戏的话 命运2\n命运2是我玩的最好玩的游戏 从我一句这游戏狗都不玩到我为这游戏付出了13621h时长\n我从中感受到太多 从开始什么都不会 自己一个人到找到团队 带我玩 带我刷 到我去带新人 像是老师一样的身份 带着新人拿到装备的时候我是真的很欣慰 然后到团本 六个人一起开荒"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065370035460461006].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065370035460461006",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065370035460461006"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2065358129647489245",
+        "created_at": "2026-06-12T09:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065371665891258735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065371665891258735",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065370035460461006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 番的话 万神殿  游戏的话 命运2\n命运2是我玩的最好玩的游戏 从我一句这游戏狗都不玩到我为这游戏付出了13621h时长\n我从中感受到太多 从开始什么都不会 自己一个人到找到团队 带我玩 带我刷 到我去带新人 像是老师一样的身份 带着新人拿到装备的时候我是真的很欣慰 然后到团本 六个人一起开荒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔/我要学药理！！！\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 82,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 59,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 53,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 420
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 2756,
+          "like_count": 49936,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 4591
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

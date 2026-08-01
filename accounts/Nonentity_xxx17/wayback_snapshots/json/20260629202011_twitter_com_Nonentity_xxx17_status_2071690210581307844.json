@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2071656763305382392",
+    "created_at": "2026-06-29T20:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T21:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071690210581307844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071690210581307844",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071688306069504397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 哈哈哈哈哈看私信！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2071656763305382392",
+        "created_at": "2026-06-29T20:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071690210581307844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071690210581307844",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071688306069504397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 哈哈哈哈哈看私信！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2071656763305382392",
+        "created_at": "2026-06-29T20:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071688306069504397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071688306069504397",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071683769560608915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 哇塞玩这么刺激。那是过命的交情了呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 89,
+          "like_count": 3044,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "非同类私信请先过🚪888",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 554,
+          "like_count": 13282,
+          "listed_count": 8,
+          "media_count": 1077,
+          "tweet_count": 14321
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

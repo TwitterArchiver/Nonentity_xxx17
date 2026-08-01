@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066389207338377217",
+    "created_at": "2026-06-15T05:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066396826883043345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2065335080265093121",
+          "start": 0,
+          "username": "MaoYe119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066396826883043345",
+    "in_reply_to_user_id": "2065335080265093121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066389207338377217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoYe119 我看你是真魔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066389207338377217",
+        "created_at": "2026-06-15T05:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066396826883043345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2065335080265093121",
+              "start": 0,
+              "username": "MaoYe119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066396826883043345",
+        "in_reply_to_user_id": "2065335080265093121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066389207338377217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoYe119 我看你是真魔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065335080265093121",
+        "conversation_id": "2066389207338377217",
+        "created_at": "2026-06-15T05:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066389207338377217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066389207338377217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想来点真毒..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 60,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 461
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "我叫小冶，第二人格",
+        "id": "2065335080265093121",
+        "name": "猫冶.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "MaoYe119",
+        "verified": false
+      }
+    ]
+  }
+}

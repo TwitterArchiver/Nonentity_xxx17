@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2064495476058247450",
+    "created_at": "2026-06-10T00:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064497865310060548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051372328467238913",
+          "start": 0,
+          "username": "Miaoygyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064497865310060548",
+    "in_reply_to_user_id": "2051372328467238913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064495476058247450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaoygyf 幻视地下内裤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064495445779595264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaPq3YawAAloNH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064495445775396864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaPq3XasAASp6D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064495445771157504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaPq3WaAAAcFYP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064495476058247450",
+        "created_at": "2026-06-10T00:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064497865310060548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051372328467238913",
+              "start": 0,
+              "username": "Miaoygyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064497865310060548",
+        "in_reply_to_user_id": "2051372328467238913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064495476058247450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaoygyf 幻视地下内裤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064495445779595264",
+            "3_2064495445775396864",
+            "3_2064495445771157504"
+          ]
+        },
+        "author_id": "2051372328467238913",
+        "conversation_id": "2064495476058247450",
+        "created_at": "2026-06-09T23:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064495476058247450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zzdpp62il3",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaoygyf/status/2064495476058247450/photo/1",
+              "media_key": "3_2064495445779595264",
+              "start": 0,
+              "url": "https://t.co/Zzdpp62il3"
+            },
+            {
+              "display_url": "pic.x.com/Zzdpp62il3",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaoygyf/status/2064495476058247450/photo/1",
+              "media_key": "3_2064495445775396864",
+              "start": 0,
+              "url": "https://t.co/Zzdpp62il3"
+            },
+            {
+              "display_url": "pic.x.com/Zzdpp62il3",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaoygyf/status/2064495476058247450/photo/1",
+              "media_key": "3_2064495445771157504",
+              "start": 0,
+              "url": "https://t.co/Zzdpp62il3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064495476058247450",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zzdpp62il3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 43,
+          "like_count": 1199,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 365
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T18:45:32.000Z",
+        "description": "zc/od/bi/ww/yc/三陪🚪➕vx\n伤痕还是要遮。工作还是要做。生活没打算放过我，我也没打算放过生活。😉",
+        "id": "2051372328467238913",
+        "name": "灿灿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062930066108227585/qdFoQiFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "Miaoygyf",
+        "verified": false
+      }
+    ]
+  }
+}

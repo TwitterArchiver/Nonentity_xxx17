@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2064324198890107229",
+    "created_at": "2026-06-09T13:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064335091732709500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064335091732709500",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064324198890107229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 太银翼了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064324181852884993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXz5_iXEAEdp8w.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064324198890107229",
+        "created_at": "2026-06-09T13:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064335091732709500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064335091732709500",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064324198890107229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 太银翼了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064324181852884993"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "conversation_id": "2064324198890107229",
+        "created_at": "2026-06-09T12:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064324198890107229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRaA0gqkIP",
+              "end": 36,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2064324198890107229/photo/1",
+              "media_key": "3_2064324181852884993",
+              "start": 13,
+              "url": "https://t.co/kRaA0gqkIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064324198890107229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟吞一粒那我就吞两粒！ https://t.co/kRaA0gqkIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 40,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 366
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 213,
+          "like_count": 2905,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 936
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

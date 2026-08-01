@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2069857347607171259",
+    "created_at": "2026-06-25T01:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069962650470215771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645154173707755520",
+          "start": 0,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069962650470215771",
+    "in_reply_to_user_id": "1645154173707755520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069857347607171259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lx101067 👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069857329701625856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmcRliaoAAxt78.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2069857347607171259",
+        "created_at": "2026-06-25T01:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069962650470215771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645154173707755520",
+              "start": 0,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069962650470215771",
+        "in_reply_to_user_id": "1645154173707755520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069857347607171259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lx101067 👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069857329701625856"
+          ]
+        },
+        "author_id": "1645154173707755520",
+        "conversation_id": "2069857347607171259",
+        "created_at": "2026-06-24T18:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069857347607171259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/trNlz8bKGQ",
+              "end": 27,
+              "expanded_url": "https://x.com/lx101067/status/2069857347607171259/photo/1",
+              "media_key": "3_2069857329701625856",
+              "start": 4,
+              "url": "https://t.co/trNlz8bKGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069857347607171259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杀了你 https://t.co/trNlz8bKGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 78,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "此地只是本人的阅读即焚垃圾桶谢谢你的路过/提问箱https://t.co/u0tJqGI0nW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/night63788",
+                "end": 47,
+                "expanded_url": "https://ngl.link/night63788",
+                "start": 24,
+                "url": "https://t.co/u0tJqGI0nW"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "我的坟墓在此地",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015686881741291520/AbBxgcMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3340,
+          "following_count": 670,
+          "like_count": 12571,
+          "listed_count": 7,
+          "media_count": 1422,
+          "tweet_count": 10954
+        },
+        "url": "",
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

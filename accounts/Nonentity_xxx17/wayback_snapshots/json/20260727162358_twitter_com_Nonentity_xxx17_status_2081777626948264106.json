@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2081746299498676561",
+    "created_at": "2026-07-27T16:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081777626948264106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081777626948264106",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081746299498676561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii 很实用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2081746299498676561",
+        "created_at": "2026-07-27T16:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081777626948264106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081777626948264106",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081746299498676561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 很实用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2081746299498676561",
+        "created_at": "2026-07-27T14:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081746299498676561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081746299498676561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思但我现在安慰人只能说出来一句那你吃点prbl吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 97,
+          "like_count": 3898,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 613
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 328,
+          "like_count": 24237,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

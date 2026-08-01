@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2064665551734284517",
+    "created_at": "2026-06-12T01:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065250394704654728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2010180389755813888",
+          "start": 0,
+          "username": "wbyygr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065250394704654728",
+    "in_reply_to_user_id": "2010180389755813888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064665551734284517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbyygr 老熟练工了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_2064665545186988032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcqX9Db0AAocyf.jpg",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064665551734284517",
+        "created_at": "2026-06-12T01:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065250394704654728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2010180389755813888",
+              "start": 0,
+              "username": "wbyygr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065250394704654728",
+        "in_reply_to_user_id": "2010180389755813888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064665551734284517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbyygr 老熟练工了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064665545186988032"
+          ]
+        },
+        "author_id": "2010180389755813888",
+        "conversation_id": "2064665551734284517",
+        "created_at": "2026-06-10T11:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064665551734284517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQahCO5SO6",
+              "end": 40,
+              "expanded_url": "https://x.com/wbyygr/status/2064665551734284517/photo/1",
+              "media_key": "3_2064665545186988032",
+              "start": 17,
+              "url": "https://t.co/qQahCO5SO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064665551734284517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友每次住酒店都让我假装她妈妈… https://t.co/qQahCO5SO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 52,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 404
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T02:42:18.000Z",
+        "description": "我的眼泪对于你来说又算什么",
+        "id": "2010180389755813888",
+        "name": "痛恨阴雨季",
+        "pinned_tweet_id": "2053088930329952580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049163963141959680/5E7e3j1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 218
+        },
+        "username": "wbyygr",
+        "verified": false
+      }
+    ]
+  }
+}

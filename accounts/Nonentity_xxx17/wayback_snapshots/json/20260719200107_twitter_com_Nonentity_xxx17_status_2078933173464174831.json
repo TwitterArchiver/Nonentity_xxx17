@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2078933057223180635",
+    "created_at": "2026-07-19T20:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078933173464174831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078933173464174831",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078933057223180635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw 世子之争素来如此"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078933050566791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnamEbaUAAw64F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2078933057223180635",
+        "created_at": "2026-07-19T20:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078933173464174831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078933173464174831",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078933057223180635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 世子之争素来如此"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078933050566791168"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2078933057223180635",
+        "created_at": "2026-07-19T20:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078933057223180635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1919465517829783552",
+              "start": 5,
+              "username": "Nonentity_xxx17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hednJ2LyjG",
+              "end": 45,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2078933057223180635/photo/1",
+              "media_key": "3_2078933050566791168",
+              "start": 22,
+              "url": "https://t.co/hednJ2LyjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078933057223180635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有几把了@Nonentity_xxx17 https://t.co/hednJ2LyjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 97,
+          "like_count": 3652,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 468,
+          "like_count": 1290,
+          "listed_count": 5,
+          "media_count": 200,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

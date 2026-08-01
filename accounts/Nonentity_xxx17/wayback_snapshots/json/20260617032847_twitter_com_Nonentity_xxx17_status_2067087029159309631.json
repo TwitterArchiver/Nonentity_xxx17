@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066917727764385910",
+    "created_at": "2026-06-17T03:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067087029159309631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        },
+        {
+          "end": 25,
+          "id": "1919076001830592512",
+          "start": 14,
+          "username": "Yiit121775"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067087029159309631",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067049446626738272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 @Yiit121775 没人在意的 放心吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066917727764385910",
+        "created_at": "2026-06-17T03:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067087029159309631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            },
+            {
+              "end": 25,
+              "id": "1919076001830592512",
+              "start": 14,
+              "username": "Yiit121775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067087029159309631",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067049446626738272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 @Yiit121775 没人在意的 放心吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058924635547402243",
+        "conversation_id": "2066917727764385910",
+        "created_at": "2026-06-17T00:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067049446626738272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919076001830592512",
+              "start": 0,
+              "username": "Yiit121775"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067049446626738272",
+        "in_reply_to_user_id": "1919076001830592512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066939446474477793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yiit121775 我感觉不太行呀因为我家旁边就派出所晶哥闲的没事干两分钟就到我家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 67,
+          "like_count": 1990,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 516
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/bpd 匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika 恋人@minako8964 老婆@boqiaoahm4\n 互fo请私信 有时候看不到 查成分回fo 成分不过关会取 健全人只fo女孩子男的滚一股顺直味恶心死了去死去死去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "elkvika"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "minako8964"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "boqiaoahm4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 48,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 25,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "死死死",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2064694234670928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 28,
+          "like_count": 2345,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 959
+        },
+        "username": "kasemarin520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T17:05:53.000Z",
+        "description": "女宝宝们快来关注我，男的滚不要在我面前跳脚",
+        "id": "1919076001830592512",
+        "name": "Sad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062575784892702721/TAQNFcLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 41,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 36
+        },
+        "username": "Yiit121775",
+        "verified": false
+      }
+    ]
+  }
+}

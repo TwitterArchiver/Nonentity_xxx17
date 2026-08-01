@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2064356705472049309",
+    "created_at": "2026-06-09T14:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064356705472049309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1473461287883583500",
+          "start": 3,
+          "username": "hdbxhsihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064356705472049309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064310084075921485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hdbxhsihd: 18岁之前要个屁的性爱自由啊  想操未成年的全部死全家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064356705472049309",
+        "created_at": "2026-06-09T14:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064356705472049309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1473461287883583500",
+              "start": 3,
+              "username": "hdbxhsihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064356705472049309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064310084075921485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hdbxhsihd: 18岁之前要个屁的性爱自由啊  想操未成年的全部死全家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473461287883583500",
+        "conversation_id": "2064310084075921485",
+        "created_at": "2026-06-09T11:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064310084075921485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064310084075921485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4099,
+          "like_count": 263,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "18岁之前要个屁的性爱自由啊  想操未成年的全部死全家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 42,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 368
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T01:12:34.000Z",
+        "description": "没妈的骂我 骂我的没妈",
+        "id": "1473461287883583500",
+        "location": "纯绿🚪266/520 无区别。除打钱外私信不回",
+        "name": "渚",
+        "pinned_tweet_id": "2043969816105525288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982074929496424448/3yNHSKqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7554,
+          "following_count": 87,
+          "like_count": 8540,
+          "listed_count": 13,
+          "media_count": 319,
+          "tweet_count": 4660
+        },
+        "username": "hdbxhsihd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2067239240338182420",
+    "created_at": "2026-06-17T13:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067244279702110457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948883734062923778",
+          "start": 0,
+          "username": "msro_ovo1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067244279702110457",
+    "in_reply_to_user_id": "1948883734062923778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067239240338182420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msro_ovo1119 不是？？！长发被骂算了 东北人也要被骂是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2067239240338182420",
+        "created_at": "2026-06-17T13:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067244279702110457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948883734062923778",
+              "start": 0,
+              "username": "msro_ovo1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067244279702110457",
+        "in_reply_to_user_id": "1948883734062923778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067239240338182420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msro_ovo1119 不是？？！长发被骂算了 东北人也要被骂是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948883734062923778",
+        "conversation_id": "2067239240338182420",
+        "created_at": "2026-06-17T13:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067239240338182420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067239240338182420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保持地域歧视 先从东北大酱男女开始吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 73,
+          "like_count": 2130,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 504
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T23:11:19.000Z",
+        "description": "开个玩笑",
+        "id": "1948883734062923778",
+        "location": "Hong Kong",
+        "name": "nsrm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058090504026562560/GU23yzLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 37,
+          "like_count": 2375,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1252
+        },
+        "username": "msro_ovo1119",
+        "verified": false
+      }
+    ]
+  }
+}

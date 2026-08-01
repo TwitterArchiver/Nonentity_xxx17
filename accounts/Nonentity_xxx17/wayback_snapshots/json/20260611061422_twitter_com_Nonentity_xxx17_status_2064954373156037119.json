@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064954366801678336"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "conversation_id": "2064953606969975101",
+    "created_at": "2026-06-11T06:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064954373156037119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WUTrGAqzBE",
+          "end": 39,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2064954373156037119/photo/1",
+          "media_key": "3_2064954366801678336",
+          "start": 16,
+          "url": "https://t.co/WUTrGAqzBE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064954373156037119",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064953606969975101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw https://t.co/WUTrGAqzBE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_2064954366801678336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgxDlabEAAGJMK.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064954366801678336"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064953606969975101",
+        "created_at": "2026-06-11T06:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064954373156037119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUTrGAqzBE",
+              "end": 39,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2064954373156037119/photo/1",
+              "media_key": "3_2064954366801678336",
+              "start": 16,
+              "url": "https://t.co/WUTrGAqzBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064954373156037119",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064953606969975101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw https://t.co/WUTrGAqzBE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2064953606969975101",
+        "created_at": "2026-06-11T06:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064953606969975101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonentity_xxx1…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/nonentity_xxx17/status/2064926614115504357",
+              "start": 68,
+              "url": "https://t.co/7KGVPdvrsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064953606969975101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064926614115504357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前只觉得小兴骚了哄的完全没注意他长这么帅啊🌚太骚了导致多年后的今天才发现他是帅哥吗，诶呀老公你看这事闹的！我再也不对你大呼小叫了！ https://t.co/7KGVPdvrsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 46,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 394
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @KviSin_17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "KviSin_17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 433,
+          "like_count": 1074,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

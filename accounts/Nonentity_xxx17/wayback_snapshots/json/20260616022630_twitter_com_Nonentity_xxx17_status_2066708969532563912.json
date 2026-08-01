@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066530094408159587",
+    "created_at": "2026-06-16T02:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066708969532563912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530574799130738688",
+          "start": 0,
+          "username": "chusilaifugogo"
+        },
+        {
+          "end": 27,
+          "id": "1978128183875514369",
+          "start": 16,
+          "username": "na_an31255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066708969532563912",
+    "in_reply_to_user_id": "1530574799130738688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066686877869215856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chusilaifugogo @na_an31255 这波应该先聊原生家庭的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-16T02:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066708969532563912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530574799130738688",
+              "start": 0,
+              "username": "chusilaifugogo"
+            },
+            {
+              "end": 27,
+              "id": "1978128183875514369",
+              "start": 16,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066708969532563912",
+        "in_reply_to_user_id": "1530574799130738688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066686877869215856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chusilaifugogo @na_an31255 这波应该先聊原生家庭的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530574799130738688",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-16T00:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066686877869215856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            },
+            {
+              "end": 28,
+              "id": "1978128183875514369",
+              "start": 17,
+              "username": "na_an31255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066686877869215856",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066669209099366578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 @na_an31255 敢的老师敢的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 63,
+          "like_count": 1896,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 488
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T15:40:59.000Z",
+        "description": "apple猫重出江湖！不定时更新！and有占卜需要找这个宝宝！@kill_this_hate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkkkkk%E5%A1%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkkkkk%E5%A1%91",
+                "start": 0,
+                "url": "https://t.co/A7Ryj1UcwD"
+              }
+            ]
+          }
+        },
+        "id": "1530574799130738688",
+        "location": "Golden",
+        "name": "gg猫",
+        "pinned_tweet_id": "2057278327946449173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066379155521069056/Bpdzcm6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 3691,
+          "like_count": 13067,
+          "listed_count": 26,
+          "media_count": 39,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/A7Ryj1UcwD",
+        "username": "chusilaifugogo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T15:58:15.000Z",
+        "description": "小草&我/精神不稳定性格有缺陷/无知 虚伪 贪婪 嫉妒 束缚 伤害/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/an%E2%80%86na2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/an%E2%80%86na2",
+                "start": 0,
+                "url": "https://t.co/801rxjZEP7"
+              }
+            ]
+          }
+        },
+        "id": "1978128183875514369",
+        "location": "乌托邦",
+        "name": "电车驶过身体发出告别声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992294900721946624/YU9ja8dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 159,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/801rxjZEP7",
+        "username": "na_an31255",
+        "verified": false
+      }
+    ]
+  }
+}

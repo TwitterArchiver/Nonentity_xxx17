@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066801142332567608",
+    "created_at": "2026-06-16T09:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066814963948421358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051195377420992512",
+          "start": 0,
+          "username": "Rain7x6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066814963948421358",
+    "in_reply_to_user_id": "2051195377420992512",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066801142332567608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain7x6y ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066801124431335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7ArBsbkAAen_P.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066801142332567608",
+        "created_at": "2026-06-16T09:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066814963948421358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051195377420992512",
+              "start": 0,
+              "username": "Rain7x6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066814963948421358",
+        "in_reply_to_user_id": "2051195377420992512",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066801142332567608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain7x6y ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066801124431335424"
+          ]
+        },
+        "author_id": "2051195377420992512",
+        "conversation_id": "2066801142332567608",
+        "created_at": "2026-06-16T08:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066801142332567608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DtIThXcWRo",
+              "end": 48,
+              "expanded_url": "https://x.com/Rain7x6y/status/2066801142332567608/photo/1",
+              "media_key": "3_2066801124431335424",
+              "start": 25,
+              "url": "https://t.co/DtIThXcWRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066801142332567608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "thc➕依托咪酯。到手就这么点我没抽出来什么感觉 https://t.co/DtIThXcWRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 64,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 495
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "經營了一個女僕cos桌遊店！\n是否有人來？請私信我\n前世@naijin66998\n喜欢的人@lilibr0k3n33 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "naijin66998"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "lilibr0k3n33"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "ovocaize"
+              }
+            ]
+          }
+        },
+        "id": "2051195377420992512",
+        "name": "冬雪Rain2️⃣女仆店七月开",
+        "pinned_tweet_id": "2066445738217988437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 111,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 189
+        },
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

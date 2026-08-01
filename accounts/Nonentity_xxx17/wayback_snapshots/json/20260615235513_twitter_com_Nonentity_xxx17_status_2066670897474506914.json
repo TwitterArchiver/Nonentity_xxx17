@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066670897474506914",
+    "created_at": "2026-06-15T23:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066670897474506914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxx_kkkl/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xxx_kkkl/status/2066564301641617436",
+          "start": 9,
+          "url": "https://t.co/Y0RuVELuAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066670897474506914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066564301641617436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊～是东北王来了 https://t.co/Y0RuVELuAr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066670897474506914",
+        "created_at": "2026-06-15T23:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066670897474506914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_kkkl/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xxx_kkkl/status/2066564301641617436",
+              "start": 9,
+              "url": "https://t.co/Y0RuVELuAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066670897474506914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066564301641617436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊～是东北王来了 https://t.co/Y0RuVELuAr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066564301641617436",
+        "created_at": "2026-06-15T16:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066564301641617436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/koroshiiiiiii/status/2066538338551816410",
+              "start": 19,
+              "url": "https://t.co/AYgX3GiaV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066564301641617436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066538338551816410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我承认赵本杀老师是真的杀不死这是真的 https://t.co/AYgX3GiaV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 63,
+          "like_count": 1886,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 483
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "一个违背道德良知的神棍。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/MFy5tkgAMP"
+              }
+            ]
+          }
+        },
+        "id": "1384831606276476930",
+        "name": "Jahseh 🆁🅲（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066401126182981632/EqAfAy5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 111,
+          "like_count": 57,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/MFy5tkgAMP",
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

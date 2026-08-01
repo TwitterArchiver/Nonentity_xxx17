@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2070890982086979664",
+    "created_at": "2026-06-27T16:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070906455117676822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070906455117676822",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070890982086979664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii 金刚金经 硬如金刚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2070890966270246912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1IXJ0agAAAjCM.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2070890982086979664",
+        "created_at": "2026-06-27T16:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070906455117676822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070906455117676822",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070890982086979664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 金刚金经 硬如金刚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070890966270246912"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070890982086979664",
+        "created_at": "2026-06-27T15:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070890982086979664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dP1jGNW8hS",
+              "end": 23,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2070890982086979664/photo/1",
+              "media_key": "3_2070890966270246912",
+              "start": 0,
+              "url": "https://t.co/dP1jGNW8hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070890982086979664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dP1jGNW8hS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 80,
+          "like_count": 2861,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 292,
+          "like_count": 20100,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1520
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

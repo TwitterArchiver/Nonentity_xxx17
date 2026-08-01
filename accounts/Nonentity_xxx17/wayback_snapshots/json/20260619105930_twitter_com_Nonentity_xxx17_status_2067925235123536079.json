@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2067804597444657625",
+    "created_at": "2026-06-19T10:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067925235123536079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1591524062488297472",
+          "start": 0,
+          "username": "exzasev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067925235123536079",
+    "in_reply_to_user_id": "1591524062488297472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067924358988021765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exzasev 这时候别来杭州 连下一个礼拜雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2067804597444657625",
+        "created_at": "2026-06-19T10:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067925235123536079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591524062488297472",
+              "start": 0,
+              "username": "exzasev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067925235123536079",
+        "in_reply_to_user_id": "1591524062488297472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067924358988021765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exzasev 这时候别来杭州 连下一个礼拜雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591524062488297472",
+        "conversation_id": "2067804597444657625",
+        "created_at": "2026-06-19T10:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067924358988021765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067924358988021765",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067834719199547453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 虽然话这么说，但我感觉八九月的西湖也挺美的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 八字 算卦👉 @godspeedyou50\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "godspeedyou50"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 74,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 51,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 80,
+          "like_count": 2404,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T20:11:30.000Z",
+        "description": "78岁高龄老太",
+        "id": "1591524062488297472",
+        "location": "比基尼海滩",
+        "name": "Exzasev",
+        "pinned_tweet_id": "1971521335701786937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039686793877221376/dZ6WN0GL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 186,
+          "like_count": 15527,
+          "listed_count": 1,
+          "media_count": 1173,
+          "tweet_count": 4711
+        },
+        "url": "",
+        "username": "exzasev",
+        "verified": false
+      }
+    ]
+  }
+}

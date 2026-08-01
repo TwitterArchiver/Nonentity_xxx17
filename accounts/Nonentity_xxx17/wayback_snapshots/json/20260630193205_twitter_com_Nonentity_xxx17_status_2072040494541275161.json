@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072040486911750144",
+        "3_2072040486890782721",
+        "3_2072040486924427264"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072040494541275161",
+    "created_at": "2026-06-30T19:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T20:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072040494541275161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 113,
+          "id": "1830934925769613334",
+          "start": 98,
+          "username": "Jinggebiezhuaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ORECf2BQxI",
+          "end": 137,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2072040494541275161/photo/1",
+          "media_key": "3_2072040486911750144",
+          "start": 114,
+          "url": "https://t.co/ORECf2BQxI"
+        },
+        {
+          "display_url": "pic.x.com/ORECf2BQxI",
+          "end": 137,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2072040494541275161/photo/1",
+          "media_key": "3_2072040486890782721",
+          "start": 114,
+          "url": "https://t.co/ORECf2BQxI"
+        },
+        {
+          "display_url": "pic.x.com/ORECf2BQxI",
+          "end": 137,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2072040494541275161/photo/1",
+          "media_key": "3_2072040486924427264",
+          "start": 114,
+          "url": "https://t.co/ORECf2BQxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072040494541275161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "佛珠：我他妈不知道我在室内还是室外 我看在超市后门抽烟的二人看的剧烈变形\n我：打视频看看 把你外卖地址给我 定位也给我 （一搜52km外）你他妈怎么出现在52km外的？\n佛珠：我不到啊  \n我：？@Jinggebiezhuaw https://t.co/ORECf2BQxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2072040486911750144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFd2D6aMAAOWf8.jpg",
+        "width": 600
+      },
+      {
+        "height": 935,
+        "media_key": "3_2072040486890782721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFd2D1aQAEQTN1.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072040486924427264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFd2D9boAAOaoN.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072040486911750144",
+            "3_2072040486890782721",
+            "3_2072040486924427264"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072040494541275161",
+        "created_at": "2026-06-30T19:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072040494541275161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 113,
+              "id": "1830934925769613334",
+              "start": 98,
+              "username": "Jinggebiezhuaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORECf2BQxI",
+              "end": 137,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2072040494541275161/photo/1",
+              "media_key": "3_2072040486911750144",
+              "start": 114,
+              "url": "https://t.co/ORECf2BQxI"
+            },
+            {
+              "display_url": "pic.x.com/ORECf2BQxI",
+              "end": 137,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2072040494541275161/photo/1",
+              "media_key": "3_2072040486890782721",
+              "start": 114,
+              "url": "https://t.co/ORECf2BQxI"
+            },
+            {
+              "display_url": "pic.x.com/ORECf2BQxI",
+              "end": 137,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2072040494541275161/photo/1",
+              "media_key": "3_2072040486924427264",
+              "start": 114,
+              "url": "https://t.co/ORECf2BQxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072040494541275161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "佛珠：我他妈不知道我在室内还是室外 我看在超市后门抽烟的二人看的剧烈变形\n我：打视频看看 把你外卖地址给我 定位也给我 （一搜52km外）你他妈怎么出现在52km外的？\n佛珠：我不到啊  \n我：？@Jinggebiezhuaw https://t.co/ORECf2BQxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 87,
+          "like_count": 3125,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3223,
+          "following_count": 452,
+          "like_count": 1147,
+          "listed_count": 5,
+          "media_count": 184,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

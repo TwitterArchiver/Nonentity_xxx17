@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2069995329081229582",
+    "created_at": "2026-06-25T06:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070031245086745037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056655773502160896",
+          "start": 0,
+          "username": "simaojie"
+        },
+        {
+          "end": 18,
+          "id": "2066389067080867840",
+          "start": 10,
+          "username": "Huhuixh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070031245086745037",
+    "in_reply_to_user_id": "2056655773502160896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070018833369514392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@simaojie @Huhuixh 999感冒灵 煽风胶囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2069995329081229582",
+        "created_at": "2026-06-25T06:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070031245086745037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056655773502160896",
+              "start": 0,
+              "username": "simaojie"
+            },
+            {
+              "end": 18,
+              "id": "2066389067080867840",
+              "start": 10,
+              "username": "Huhuixh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070031245086745037",
+        "in_reply_to_user_id": "2056655773502160896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070018833369514392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@simaojie @Huhuixh 999感冒灵 煽风胶囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655773502160896",
+        "conversation_id": "2069995329081229582",
+        "created_at": "2026-06-25T05:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070018833369514392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066389067080867840",
+              "start": 0,
+              "username": "Huhuixh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070018833369514392",
+        "in_reply_to_user_id": "2066389067080867840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069995329081229582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhuixh 让感冒了吃感康的人怎么办？🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 79,
+          "like_count": 2727,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "你们可以叫我kaki/小卉\n欢迎互fo互转！！\n女宝宝们直fo就行我都会回关的",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 177,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "simaojie",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T05:16:21.000Z",
+        "description": "＝hh，第一世@Huhiosc3x 想回评论就用这个号，互关可以无脑关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2066389067080867840",
+        "name": "Hihi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070020194580500480/puEN-cXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 30,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "Huhuixh",
+        "verified": false
+      }
+    ]
+  }
+}

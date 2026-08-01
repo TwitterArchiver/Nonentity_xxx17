@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2076636358349877605",
+    "created_at": "2026-07-13T12:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076641901714006352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1755347076362514432",
+          "start": 0,
+          "username": "SunRen7frr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076641901714006352",
+    "in_reply_to_user_id": "1755347076362514432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076636358349877605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunRen7frr 很幸福了 我没得照片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2076636358349877605",
+        "created_at": "2026-07-13T12:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076641901714006352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755347076362514432",
+              "start": 0,
+              "username": "SunRen7frr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076641901714006352",
+        "in_reply_to_user_id": "1755347076362514432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076636358349877605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunRen7frr 很幸福了 我没得照片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755347076362514432",
+        "conversation_id": "2076636358349877605",
+        "created_at": "2026-07-13T11:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076636358349877605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076636358349877605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的主页真的照片大乱炖啥时期的都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 94,
+          "like_count": 3469,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T21:45:39.000Z",
+        "description": "",
+        "id": "1755347076362514432",
+        "location": "v100好友位288/388/520/1314",
+        "name": "嫣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075268557022359553/rjdFbNE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19690,
+          "following_count": 12,
+          "like_count": 8054,
+          "listed_count": 72,
+          "media_count": 102,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "SunRen7frr",
+        "verified": false
+      }
+    ]
+  }
+}

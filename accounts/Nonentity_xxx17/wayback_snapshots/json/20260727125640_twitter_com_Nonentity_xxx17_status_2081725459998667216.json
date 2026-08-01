@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2081725298421436835",
+    "created_at": "2026-07-27T12:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081725459998667216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830934925769613334",
+          "start": 0,
+          "username": "Jinggebiezhuaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081725459998667216",
+    "in_reply_to_user_id": "1830934925769613334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081725298421436835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jinggebiezhuaw 给僵尸吃坚果吃饱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081725289802203136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPGHyKbgAABH2R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2081725298421436835",
+        "created_at": "2026-07-27T12:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081725459998667216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081725459998667216",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081725298421436835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 给僵尸吃坚果吃饱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081725289802203136"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2081725298421436835",
+        "created_at": "2026-07-27T12:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081725298421436835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1919465517829783552",
+              "start": 37,
+              "username": "Nonentity_xxx17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgGLKapc7T",
+              "end": 77,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2081725298421436835/photo/1",
+              "media_key": "3_2081725289802203136",
+              "start": 54,
+              "url": "https://t.co/wgGLKapc7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081725298421436835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舒服的阿片…上劲中…\n我们正以这样诡异的姿势一个在看书一个在打植物大战僵尸@Nonentity_xxx17 https://t.co/wgGLKapc7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 97,
+          "like_count": 3880,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "我是奥克萨娜，女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。魔界大门入口：@Oksana222RC\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3510,
+          "following_count": 264,
+          "like_count": 1690,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2078319331864354963",
+    "created_at": "2026-07-18T03:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078322488732422553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077595893294084096",
+          "start": 0,
+          "username": "Dandanovo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078322488732422553",
+    "in_reply_to_user_id": "2077595893294084096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078319331864354963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dandanovo7 依旧pyq先看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078319312000208896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNesZyGbUAA6GfU.jpg",
+        "width": 923
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078319312016949248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNesZyKawAAksaU.jpg",
+        "width": 752
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078319312025341952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNesZyMa0AA8rFK.jpg",
+        "width": 847
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078319312004341760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNesZyHaYAAW_wO.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2078319331864354963",
+        "created_at": "2026-07-18T03:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078322488732422553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077595893294084096",
+              "start": 0,
+              "username": "Dandanovo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078322488732422553",
+        "in_reply_to_user_id": "2077595893294084096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078319331864354963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandanovo7 依旧pyq先看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078319312000208896",
+            "3_2078319312016949248",
+            "3_2078319312025341952",
+            "3_2078319312004341760"
+          ]
+        },
+        "author_id": "2077595893294084096",
+        "conversation_id": "2078319331864354963",
+        "created_at": "2026-07-18T03:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078319331864354963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUYhG6PbI5",
+              "end": 25,
+              "expanded_url": "https://x.com/Dandanovo7/status/2078319331864354963/photo/1",
+              "media_key": "3_2078319312000208896",
+              "start": 2,
+              "url": "https://t.co/rUYhG6PbI5"
+            },
+            {
+              "display_url": "pic.x.com/rUYhG6PbI5",
+              "end": 25,
+              "expanded_url": "https://x.com/Dandanovo7/status/2078319331864354963/photo/1",
+              "media_key": "3_2078319312016949248",
+              "start": 2,
+              "url": "https://t.co/rUYhG6PbI5"
+            },
+            {
+              "display_url": "pic.x.com/rUYhG6PbI5",
+              "end": 25,
+              "expanded_url": "https://x.com/Dandanovo7/status/2078319331864354963/photo/1",
+              "media_key": "3_2078319312025341952",
+              "start": 2,
+              "url": "https://t.co/rUYhG6PbI5"
+            },
+            {
+              "display_url": "pic.x.com/rUYhG6PbI5",
+              "end": 25,
+              "expanded_url": "https://x.com/Dandanovo7/status/2078319331864354963/photo/1",
+              "media_key": "3_2078319312004341760",
+              "start": 2,
+              "url": "https://t.co/rUYhG6PbI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078319331864354963",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐈 https://t.co/rUYhG6PbI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 98,
+          "like_count": 3611,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T03:27:59.000Z",
+        "description": "✉️1907049208@qq.com🚪",
+        "id": "2077595893294084096",
+        "name": "Dandan",
+        "pinned_tweet_id": "2078111878400929881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077643397507194880/Mvu84Uv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 9,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Dandanovo7",
+        "verified": false
+      }
+    ]
+  }
+}

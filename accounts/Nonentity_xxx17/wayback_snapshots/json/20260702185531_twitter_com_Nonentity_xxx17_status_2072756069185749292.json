@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2072740572633411958",
+    "created_at": "2026-07-02T18:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072756069185749292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072756069185749292",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072740572633411958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 好玩  除了最近新出的没玩剩下的都和朋友玩翻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072740559698194433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPajqRa8AEGqJZ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2072740572633411958",
+        "created_at": "2026-07-02T18:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072756069185749292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072756069185749292",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072740572633411958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 好玩  除了最近新出的没玩剩下的都和朋友玩翻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072740559698194433"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072740572633411958",
+        "created_at": "2026-07-02T17:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072740572633411958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cPwz5rZDR",
+              "end": 48,
+              "expanded_url": "https://x.com/Greenfish_111/status/2072740572633411958/photo/1",
+              "media_key": "3_2072740559698194433",
+              "start": 25,
+              "url": "https://t.co/7cPwz5rZDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072740572633411958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好玩吗 谁想一块玩这个 我还没玩过双人游戏嘞 https://t.co/7cPwz5rZDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 89,
+          "like_count": 3278,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "非同类私信请先过🚪888",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5071,
+          "following_count": 555,
+          "like_count": 13313,
+          "listed_count": 8,
+          "media_count": 1078,
+          "tweet_count": 14357
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

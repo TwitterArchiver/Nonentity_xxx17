@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2067415513811349827",
+    "created_at": "2026-06-18T01:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067418817450721301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067418817450721301",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067415513811349827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 搞完搞完"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067415506848788480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDvcyjbMAAi-a1.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2067415513811349827",
+        "created_at": "2026-06-18T01:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067418817450721301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067418817450721301",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067415513811349827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 搞完搞完"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067415506848788480"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2067415513811349827",
+        "created_at": "2026-06-18T01:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067415513811349827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpIIdpVNEm",
+              "end": 28,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2067415513811349827/photo/1",
+              "media_key": "3_2067415506848788480",
+              "start": 5,
+              "url": "https://t.co/dpIIdpVNEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067415513811349827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "企鹅企鹅 https://t.co/dpIIdpVNEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 76,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。随缘回fo👯‍♂️\nip东京学生在读 喜欢收集cd\n交友大欢迎^ ^",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 205,
+          "like_count": 1199,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

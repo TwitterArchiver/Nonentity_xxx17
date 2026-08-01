@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2074757354655211646",
+    "created_at": "2026-07-08T09:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074789078265159817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798774957960572928",
+          "start": 0,
+          "username": "c_ocoaberry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074789078265159817",
+    "in_reply_to_user_id": "1798774957960572928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074757354655211646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c_ocoaberry 支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074757345159319552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsE0BlakAA18cW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074757345150988288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsE0BjbcAA_dV5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2074757354655211646",
+        "created_at": "2026-07-08T09:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074789078265159817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798774957960572928",
+              "start": 0,
+              "username": "c_ocoaberry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074789078265159817",
+        "in_reply_to_user_id": "1798774957960572928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074757354655211646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c_ocoaberry 支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074757345159319552",
+            "3_2074757345150988288"
+          ]
+        },
+        "author_id": "1798774957960572928",
+        "conversation_id": "2074757354655211646",
+        "created_at": "2026-07-08T07:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074757354655211646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7d5fVIcnb",
+              "end": 41,
+              "expanded_url": "https://x.com/c_ocoaberry/status/2074757354655211646/photo/1",
+              "media_key": "3_2074757345159319552",
+              "start": 18,
+              "url": "https://t.co/A7d5fVIcnb"
+            },
+            {
+              "display_url": "pic.x.com/A7d5fVIcnb",
+              "end": 41,
+              "expanded_url": "https://x.com/c_ocoaberry/status/2074757354655211646/photo/1",
+              "media_key": "3_2074757345150988288",
+              "start": 18,
+              "url": "https://t.co/A7d5fVIcnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074757354655211646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "审美转变中…\n\n现在想当传统中国娘 https://t.co/A7d5fVIcnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 90,
+          "like_count": 3367,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T17:52:44.000Z",
+        "description": "休閒旅行者/法语学习中/喜欢阳光草地海岛冷空气，不睡覺的時間會打高爾夫 但一般都在睡覺。",
+        "id": "1798774957960572928",
+        "name": "Pearl💕",
+        "pinned_tweet_id": "2017388741648658546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870017941259071488/EvflytmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 266,
+          "like_count": 14650,
+          "listed_count": 5,
+          "media_count": 348,
+          "tweet_count": 1376
+        },
+        "url": "",
+        "username": "c_ocoaberry",
+        "verified": false
+      }
+    ]
+  }
+}

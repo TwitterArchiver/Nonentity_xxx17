@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2076449945415237921",
+    "created_at": "2026-07-12T23:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076449945415237921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/idontselldrug/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/idontselldrug/status/2075965821986460062",
+          "start": 27,
+          "url": "https://t.co/pQk61j86Jn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076449945415237921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075965821986460062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "专升本它不属于是正儿八经本 其实是专注达升甲基苯丙胺 https://t.co/pQk61j86Jn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2076449945415237921",
+        "created_at": "2026-07-12T23:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076449945415237921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idontselldrug/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/idontselldrug/status/2075965821986460062",
+              "start": 27,
+              "url": "https://t.co/pQk61j86Jn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076449945415237921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075965821986460062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "专升本它不属于是正儿八经本 其实是专注达升甲基苯丙胺 https://t.co/pQk61j86Jn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2075965821986460062",
+        "created_at": "2026-07-11T15:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075965821986460062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075965821986460062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4392,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "专升本可不可以是专注达升苯丙胺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 92,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 299,
+          "like_count": 2594,
+          "listed_count": 1,
+          "media_count": 518,
+          "tweet_count": 3119
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

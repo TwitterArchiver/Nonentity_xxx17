@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066909372551496163",
+    "created_at": "2026-06-16T16:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066916380696629420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050123913469067266",
+          "start": 0,
+          "username": "Lili716000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066916380696629420",
+    "in_reply_to_user_id": "2050123913469067266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066909372551496163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lili716000 ？又跟谁做爱？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10933,
+        "height": 1280,
+        "media_key": "13_2066909293807640576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066909293807640576/img/Ni-GYCMPBnZepJH4.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066909293807640576/vid/avc1/320x568/juUaOHd37gJRkEfO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066909293807640576/vid/avc1/480x852/qrZvEkoRFLglvfvA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066909293807640576/vid/avc1/720x1280/WF9PwylCB_3wCjmX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066909293807640576/pl/tv9seVG4c7kbmU3W.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066909372551496163",
+        "created_at": "2026-06-16T16:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066916380696629420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050123913469067266",
+              "start": 0,
+              "username": "Lili716000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066916380696629420",
+        "in_reply_to_user_id": "2050123913469067266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066909372551496163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lili716000 ？又跟谁做爱？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066909293807640576"
+          ]
+        },
+        "author_id": "2050123913469067266",
+        "conversation_id": "2066909372551496163",
+        "created_at": "2026-06-16T15:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066909372551496163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRIG9vqWiS",
+              "end": 29,
+              "expanded_url": "https://x.com/Lili716000/status/2066909372551496163/video/1",
+              "media_key": "13_2066909293807640576",
+              "start": 6,
+              "url": "https://t.co/zRIG9vqWiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066909372551496163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們做愛吧 https://t.co/zRIG9vqWiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体/魔魔魔魔魔/\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 37,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 69,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 515
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T08:04:44.000Z",
+        "description": "🚪长得帅或者68口令女生不用\n直女不卖逼\n想认识我的私信聊天呀！",
+        "id": "2050123913469067266",
+        "name": "Lili",
+        "pinned_tweet_id": "2055587345928519888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050124345364946944/Rx5ar1yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 19,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 83
+        },
+        "username": "Lili716000",
+        "verified": false
+      }
+    ]
+  }
+}

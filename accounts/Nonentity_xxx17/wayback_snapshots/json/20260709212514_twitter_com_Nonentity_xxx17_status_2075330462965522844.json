@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2075189951294218742",
+    "created_at": "2026-07-09T21:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T22:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075330462965522844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1745165412441206784",
+          "start": 0,
+          "username": "kikobaby90s"
+        },
+        {
+          "end": 24,
+          "id": "1754774517594181632",
+          "start": 13,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075330462965522844",
+    "in_reply_to_user_id": "1745165412441206784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075326893751230771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikobaby90s @ValenceLab 往鼻子里干吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2075189951294218742",
+        "created_at": "2026-07-09T21:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075330462965522844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            },
+            {
+              "end": 24,
+              "id": "1754774517594181632",
+              "start": 13,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075330462965522844",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075326893751230771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s @ValenceLab 往鼻子里干吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2075189951294218742",
+        "created_at": "2026-07-09T21:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075326893751230771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            },
+            {
+              "end": 28,
+              "id": "1754774517594181632",
+              "start": 17,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075326893751230771",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075189951294218742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 @ValenceLab 给我嘴里丢一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 90,
+          "like_count": 3404,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6XJc4"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 46,
+          "like_count": 393,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/IQ4Lz6XJc4",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Gro…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Groups",
+                "start": 0,
+                "url": "https://t.co/TG4Kxegueg"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 209,
+          "like_count": 453,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/TG4Kxegueg",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066530094408159587",
+    "created_at": "2026-06-17T12:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067224988059578606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050270811974426624",
+          "start": 0,
+          "username": "rimunokotoba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067224988059578606",
+    "in_reply_to_user_id": "2050270811974426624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067223087578513604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rimunokotoba thanksssss！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-17T12:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067224988059578606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050270811974426624",
+              "start": 0,
+              "username": "rimunokotoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067224988059578606",
+        "in_reply_to_user_id": "2050270811974426624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067223087578513604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rimunokotoba thanksssss！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050270811974426624",
+        "conversation_id": "2066530094408159587",
+        "created_at": "2026-06-17T12:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067223087578513604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067223087578513604",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530094408159587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 美艳！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 73,
+          "like_count": 2072,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 500
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T17:54:24.000Z",
+        "description": "if I made u feel bad，I'm sorry but I didn’t mean to",
+        "id": "2050270811974426624",
+        "name": "Rimu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050273677141225473/Z-Y78Irm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 108,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "rimunokotoba",
+        "verified": false
+      }
+    ]
+  }
+}

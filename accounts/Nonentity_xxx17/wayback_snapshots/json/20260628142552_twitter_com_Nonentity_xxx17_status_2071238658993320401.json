@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2066070973666009274",
+    "created_at": "2026-06-28T14:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071238658993320401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1619739297518862336",
+          "start": 0,
+          "username": "seki808808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071238658993320401",
+    "in_reply_to_user_id": "1619739297518862336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066070973666009274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seki808808 你好 有点眼熟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066070881579995136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwohTFakAA9TZ9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2066070881827446784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwohUAaYAAOuc3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066070881877803008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwohUMawAAH23A.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066070881592602624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwohTIa8AAnOSn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2066070973666009274",
+        "created_at": "2026-06-28T14:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071238658993320401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619739297518862336",
+              "start": 0,
+              "username": "seki808808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071238658993320401",
+        "in_reply_to_user_id": "1619739297518862336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066070973666009274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seki808808 你好 有点眼熟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066070881579995136",
+            "3_2066070881827446784",
+            "3_2066070881877803008",
+            "3_2066070881592602624"
+          ]
+        },
+        "author_id": "1619739297518862336",
+        "conversation_id": "2066070973666009274",
+        "created_at": "2026-06-14T08:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066070973666009274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvYmQhDIwi",
+              "end": 30,
+              "expanded_url": "https://x.com/seki808808/status/2066070973666009274/photo/1",
+              "media_key": "3_2066070881579995136",
+              "start": 7,
+              "url": "https://t.co/nvYmQhDIwi"
+            },
+            {
+              "display_url": "pic.x.com/nvYmQhDIwi",
+              "end": 30,
+              "expanded_url": "https://x.com/seki808808/status/2066070973666009274/photo/1",
+              "media_key": "3_2066070881827446784",
+              "start": 7,
+              "url": "https://t.co/nvYmQhDIwi"
+            },
+            {
+              "display_url": "pic.x.com/nvYmQhDIwi",
+              "end": 30,
+              "expanded_url": "https://x.com/seki808808/status/2066070973666009274/photo/1",
+              "media_key": "3_2066070881877803008",
+              "start": 7,
+              "url": "https://t.co/nvYmQhDIwi"
+            },
+            {
+              "display_url": "pic.x.com/nvYmQhDIwi",
+              "end": 30,
+              "expanded_url": "https://x.com/seki808808/status/2066070973666009274/photo/1",
+              "media_key": "3_2066070881592602624",
+              "start": 7,
+              "url": "https://t.co/nvYmQhDIwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066070973666009274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下一个穿哪里 https://t.co/nvYmQhDIwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 84,
+          "like_count": 2908,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T16:48:45.000Z",
+        "description": "",
+        "id": "1619739297518862336",
+        "name": "808",
+        "pinned_tweet_id": "2033592078828191948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886457724575322112/3b_FbZrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1220,
+          "like_count": 12820,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "seki808808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064361117036806144"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "conversation_id": "2064361131519746446",
+    "created_at": "2026-06-09T14:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064361131519746446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《小鸠（After Life After Death）》，别名《After Life After Death》，由 浅水ShallowEnd 演唱，收录于《来世》专辑中，《小鸠（After Life After Death）》下载，《小鸠（After Life After Death）》在线试听，更多小鸠（After Life After Death）相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/8H0DO0L",
+          "end": 76,
+          "expanded_url": "https://163cn.tv/8H0DO0L",
+          "start": 53,
+          "status": 200,
+          "title": "小鸠（After Life After Death）（After Life After Death） - 浅水ShallowEnd - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&id=2164306364&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=1448632321&playerUIModeId=76001&app_version=9.5.25&dlt=0846",
+          "url": "https://t.co/msdNlePbP5"
+        },
+        {
+          "display_url": "pic.x.com/WW2khp16ZZ",
+          "end": 100,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2064361131519746446/photo/1",
+          "media_key": "3_2064361117036806144",
+          "start": 77,
+          "url": "https://t.co/WW2khp16ZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064361131519746446",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《小鸠（After Life After Death） (After Life After Death)》https://t.co/msdNlePbP5 https://t.co/WW2khp16ZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064361117036806144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYVf50bgAABANr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064361117036806144"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2064361131519746446",
+        "created_at": "2026-06-09T14:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064361131519746446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《小鸠（After Life After Death）》，别名《After Life After Death》，由 浅水ShallowEnd 演唱，收录于《来世》专辑中，《小鸠（After Life After Death）》下载，《小鸠（After Life After Death）》在线试听，更多小鸠（After Life After Death）相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/8H0DO0L",
+              "end": 76,
+              "expanded_url": "https://163cn.tv/8H0DO0L",
+              "start": 53,
+              "status": 200,
+              "title": "小鸠（After Life After Death）（After Life After Death） - 浅水ShallowEnd - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&id=2164306364&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=1448632321&playerUIModeId=76001&app_version=9.5.25&dlt=0846",
+              "url": "https://t.co/msdNlePbP5"
+            },
+            {
+              "display_url": "pic.x.com/WW2khp16ZZ",
+              "end": 100,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2064361131519746446/photo/1",
+              "media_key": "3_2064361117036806144",
+              "start": 77,
+              "url": "https://t.co/WW2khp16ZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361131519746446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《小鸠（After Life After Death） (After Life After Death)》https://t.co/msdNlePbP5 https://t.co/WW2khp16ZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 五年前的我@Xxx_kkkl\n双相I型/低能量/欣赏躯体/魔魔魔魔魔\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xxx_kkkl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 73,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 50,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 42,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 368
+        },
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

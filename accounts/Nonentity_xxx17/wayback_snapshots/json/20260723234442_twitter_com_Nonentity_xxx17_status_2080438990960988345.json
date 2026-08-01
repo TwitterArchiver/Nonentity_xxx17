@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2080438990960988345",
+    "created_at": "2026-07-23T23:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T00:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080438990960988345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1458826335468630024",
+          "start": 3,
+          "username": "lesaviezvous72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080438990960988345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079754849533755723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lesaviezvous72: 如果你已经全裸了，你感觉还不够，那你可以尝试穿上鞋和袜子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2080438990960988345",
+        "created_at": "2026-07-23T23:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080438990960988345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1458826335468630024",
+              "start": 3,
+              "username": "lesaviezvous72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080438990960988345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079754849533755723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lesaviezvous72: 如果你已经全裸了，你感觉还不够，那你可以尝试穿上鞋和袜子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1458826335468630024",
+        "conversation_id": "2079754849533755723",
+        "created_at": "2026-07-22T02:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079754849533755723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079754849533755723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 821339,
+          "like_count": 2737,
+          "quote_count": 15,
+          "reply_count": 364,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "如果你已经全裸了，你感觉还不够，那你可以尝试穿上鞋和袜子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 99,
+          "like_count": 3786,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T15:58:10.000Z",
+        "description": "随时闲聊，有话题就来",
+        "id": "1458826335468630024",
+        "name": "羊尾",
+        "pinned_tweet_id": "2066858926981955714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050546097798717440/smrkfwcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 300,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "lesaviezvous72",
+        "verified": false
+      }
+    ]
+  }
+}

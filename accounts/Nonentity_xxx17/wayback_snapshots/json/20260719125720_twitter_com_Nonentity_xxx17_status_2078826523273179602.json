@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2078826523273179602",
+    "created_at": "2026-07-19T12:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078826523273179602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oksana222rc/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/oksana222rc/status/2078824165944266753",
+          "start": 10,
+          "url": "https://t.co/eQUoOR1160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078826523273179602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078824165944266753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我先飞升了先不说了 https://t.co/eQUoOR1160"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078824158490988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNl3jt1bEAAuf8V.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2078826523273179602",
+        "created_at": "2026-07-19T12:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078826523273179602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oksana222rc/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/oksana222rc/status/2078824165944266753",
+              "start": 10,
+              "url": "https://t.co/eQUoOR1160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078826523273179602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078824165944266753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我先飞升了先不说了 https://t.co/eQUoOR1160"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078824158490988544"
+          ]
+        },
+        "author_id": "1926833599380115456",
+        "conversation_id": "2078824165944266753",
+        "created_at": "2026-07-19T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078824165944266753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvH3hHGwc5",
+              "end": 37,
+              "expanded_url": "https://x.com/Oksana222RC/status/2078824165944266753/photo/1",
+              "media_key": "3_2078824158490988544",
+              "start": 14,
+              "url": "https://t.co/GvH3hHGwc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078824165944266753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兴奋剂类也有了！欢迎购买～ https://t.co/GvH3hHGwc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 97,
+          "like_count": 3647,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "1975236330604089493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 12,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

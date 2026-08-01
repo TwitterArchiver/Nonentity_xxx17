@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2077756898850570440",
+    "created_at": "2026-07-17T02:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077951223504978219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810704701744435200",
+          "start": 0,
+          "username": "worlds_end_fumo"
+        },
+        {
+          "end": 35,
+          "id": "1518404201168007168",
+          "start": 21,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077951223504978219",
+    "in_reply_to_user_id": "1810704701744435200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077756898850570440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worlds_end_fumo 我选杰赛@godspeedyou50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2077756898850570440",
+        "created_at": "2026-07-17T02:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077951223504978219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810704701744435200",
+              "start": 0,
+              "username": "worlds_end_fumo"
+            },
+            {
+              "end": 35,
+              "id": "1518404201168007168",
+              "start": 21,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077951223504978219",
+        "in_reply_to_user_id": "1810704701744435200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077756898850570440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worlds_end_fumo 我选杰赛@godspeedyou50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810704701744435200",
+        "conversation_id": "2077756898850570440",
+        "created_at": "2026-07-16T14:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077756898850570440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077756898850570440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1052,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你最想把哪个嫐孩带回家？\n1.策划药 沐雨🥸\n2.剧烈变形 春风😎\n3.可爱笑气宅男（也就是我🥹）\n4.高原人 后藤🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n还阳十九 胜天一筹\n双相I型/低能量/欣赏躯体\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 97,
+          "like_count": 3580,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:57:11.000Z",
+        "description": "第二次转生/🎈批发 /可代购任何能力以内的东西 \n联系https://t.co/Ve4lzmqf76\n原号\n@popcat1234566\n\n3.25/一支 12邮 9g\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 50,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 27,
+                "url": "https://t.co/Ve4lzmqf76"
+              }
+            ]
+          }
+        },
+        "id": "1810704701744435200",
+        "location": "fumo island",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "2063607798639030523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608187446812672/qwIQh47u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 281,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "worlds_end_fumo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 604,
+          "like_count": 1288,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

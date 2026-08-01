@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2069423031815156141",
+    "created_at": "2026-06-23T14:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069424042474664391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069424042474664391",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069423031815156141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii 咱当兵的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069423016631750656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgRRPRaUAAA8Cd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069423016656904192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgRRPXaIAA1QT9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069423016623390721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgRRPPawAEICET.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2069423031815156141",
+        "created_at": "2026-06-23T14:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069424042474664391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069424042474664391",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069423031815156141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 咱当兵的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069423016631750656",
+            "3_2069423016656904192",
+            "3_2069423016623390721"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2069423031815156141",
+        "created_at": "2026-06-23T14:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069423031815156141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTXYRdaHlT",
+              "end": 29,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2069423031815156141/photo/1",
+              "media_key": "3_2069423016631750656",
+              "start": 6,
+              "url": "https://t.co/nTXYRdaHlT"
+            },
+            {
+              "display_url": "pic.x.com/nTXYRdaHlT",
+              "end": 29,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2069423031815156141/photo/1",
+              "media_key": "3_2069423016656904192",
+              "start": 6,
+              "url": "https://t.co/nTXYRdaHlT"
+            },
+            {
+              "display_url": "pic.x.com/nTXYRdaHlT",
+              "end": 29,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2069423031815156141/photo/1",
+              "media_key": "3_2069423016623390721",
+              "start": 6,
+              "url": "https://t.co/nTXYRdaHlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069423031815156141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺们健全b https://t.co/nTXYRdaHlT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 79,
+          "like_count": 2664,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 292,
+          "like_count": 19407,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

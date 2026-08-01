@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2069414768683950366",
+    "created_at": "2026-06-23T14:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069426411161702885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069426411161702885",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069414768683950366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2069414768683950366",
+        "created_at": "2026-06-23T14:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069426411161702885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069426411161702885",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069414768683950366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057743680061255680",
+        "conversation_id": "2069414768683950366",
+        "created_at": "2026-06-23T13:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069414768683950366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069414768683950366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉...我真的无法形容dpt的药效...静注的药效真的来的太快了，真的是瓦解意志，那15分钟里，无疑我是死的，是死掉的人，我听到来到不是我所处于的这个世界的呼唤...无数色块汹涌而来，我的脑子里只有好快，太快了，快停下来，我动不了...现在回忆里都是，哇，原来是这样的吗！我真的意识到了吗还想再来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 79,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 340,
+          "like_count": 1790,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

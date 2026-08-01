@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2075546479993958441",
+    "created_at": "2026-07-10T12:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075554647591485653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 31,
+          "id": "1830934925769613334",
+          "start": 16,
+          "username": "Jinggebiezhuaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075554647591485653",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075548559190176209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii @Jinggebiezhuaw 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2075546479993958441",
+        "created_at": "2026-07-10T12:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075554647591485653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 31,
+              "id": "1830934925769613334",
+              "start": 16,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075554647591485653",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075548559190176209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @Jinggebiezhuaw 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2075546479993958441",
+        "created_at": "2026-07-10T11:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075548559190176209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            },
+            {
+              "end": 32,
+              "id": "1830934925769613334",
+              "start": 17,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075548559190176209",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075546479993958441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 @Jinggebiezhuaw 真成美人妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 91,
+          "like_count": 3409,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 303,
+          "like_count": 20854,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3337,
+          "following_count": 465,
+          "like_count": 1180,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

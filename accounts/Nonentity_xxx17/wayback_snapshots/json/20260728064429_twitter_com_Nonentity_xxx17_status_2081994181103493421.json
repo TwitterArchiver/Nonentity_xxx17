@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2081994181103493421",
+    "created_at": "2026-07-28T06:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081994181103493421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1908452467655999488",
+          "start": 3,
+          "username": "beng_huai15789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081994181103493421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 272
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077410914333290581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beng_huai15789: 你以为自己想要激烈的性爱，想要聊骚，想要互相发送色情照片述说淫秽幻想。结束性爱后你沉默着坐在车里，深夜的雨打落在窗户，浑身疲惫内心空虚。你发现自己需要的是接吻，拥抱，亲密的相处，需要发自内心的相爱。你的心需要高潮，你需要一段亲密关系。被爱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2081994181103493421",
+        "created_at": "2026-07-28T06:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081994181103493421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1908452467655999488",
+              "start": 3,
+              "username": "beng_huai15789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081994181103493421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 272
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077410914333290581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beng_huai15789: 你以为自己想要激烈的性爱，想要聊骚，想要互相发送色情照片述说淫秽幻想。结束性爱后你沉默着坐在车里，深夜的雨打落在窗户，浑身疲惫内心空虚。你发现自己需要的是接吻，拥抱，亲密的相处，需要发自内心的相爱。你的心需要高潮，你需要一段亲密关系。被爱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908452467655999488",
+        "conversation_id": "2077410914333290581",
+        "created_at": "2026-07-15T15:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077410914333290581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077410914333290581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 118263,
+          "like_count": 1953,
+          "quote_count": 26,
+          "reply_count": 183,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "你以为自己想要激烈的性爱，想要聊骚，想要互相发送色情照片述说淫秽幻想。结束性爱后你沉默着坐在车里，深夜的雨打落在窗户，浑身疲惫内心空虚。你发现自己需要的是接吻，拥抱，亲密的相处，需要发自内心的相爱。你的心需要高潮，你需要一段亲密关系。被爱才是你最难说出口的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 96,
+          "like_count": 3910,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T09:31:53.000Z",
+        "description": "",
+        "id": "1908452467655999488",
+        "name": "冰",
+        "pinned_tweet_id": "2069683079615234354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053860162348478464/f9uRvpDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 0,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "beng_huai15789",
+        "verified": false
+      }
+    ]
+  }
+}

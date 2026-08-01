@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071153535107112960",
+        "3_2071153535107125248",
+        "3_2071153535107096576",
+        "3_2071153535132237824"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "conversation_id": "2071153556766532086",
+    "created_at": "2026-06-28T08:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071153556766532086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KHANzHasLx",
+          "end": 34,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+          "media_key": "3_2071153535107112960",
+          "start": 11,
+          "url": "https://t.co/KHANzHasLx"
+        },
+        {
+          "display_url": "pic.x.com/KHANzHasLx",
+          "end": 34,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+          "media_key": "3_2071153535107125248",
+          "start": 11,
+          "url": "https://t.co/KHANzHasLx"
+        },
+        {
+          "display_url": "pic.x.com/KHANzHasLx",
+          "end": 34,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+          "media_key": "3_2071153535107096576",
+          "start": 11,
+          "url": "https://t.co/KHANzHasLx"
+        },
+        {
+          "display_url": "pic.x.com/KHANzHasLx",
+          "end": 34,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+          "media_key": "3_2071153535132237824",
+          "start": 11,
+          "url": "https://t.co/KHANzHasLx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071153556766532086",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Clean Day7 https://t.co/KHANzHasLx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071153535107112960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL43Kq9aoAAdlbP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071153535107125248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL43Kq9a0AA5Opn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071153535107096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL43Kq9aYAACduT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071153535132237824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL43KrDaAAA3QyW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071153535107112960",
+            "3_2071153535107125248",
+            "3_2071153535107096576",
+            "3_2071153535132237824"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2071153556766532086",
+        "created_at": "2026-06-28T08:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071153556766532086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHANzHasLx",
+              "end": 34,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+              "media_key": "3_2071153535107112960",
+              "start": 11,
+              "url": "https://t.co/KHANzHasLx"
+            },
+            {
+              "display_url": "pic.x.com/KHANzHasLx",
+              "end": 34,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+              "media_key": "3_2071153535107125248",
+              "start": 11,
+              "url": "https://t.co/KHANzHasLx"
+            },
+            {
+              "display_url": "pic.x.com/KHANzHasLx",
+              "end": 34,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+              "media_key": "3_2071153535107096576",
+              "start": 11,
+              "url": "https://t.co/KHANzHasLx"
+            },
+            {
+              "display_url": "pic.x.com/KHANzHasLx",
+              "end": 34,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2071153556766532086/photo/1",
+              "media_key": "3_2071153535132237824",
+              "start": 11,
+              "url": "https://t.co/KHANzHasLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071153556766532086",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Clean Day7 https://t.co/KHANzHasLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 81,
+          "like_count": 2877,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

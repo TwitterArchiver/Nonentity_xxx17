@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067240140599140352"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "conversation_id": "2067240144709517457",
+    "created_at": "2026-06-17T13:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067240144709517457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+          "display_url": "infinitetweet.me/dumb-ways-to-d…",
+          "end": 39,
+          "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2066529029595807745/wmPsjK6K?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066529029595807745/wmPsjK6K?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Dumb Ways to Die • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "url": "https://t.co/8500tLds4D"
+        },
+        {
+          "display_url": "pic.x.com/fQACxZnrR4",
+          "end": 63,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2067240144709517457/photo/1",
+          "media_key": "3_2067240140599140352",
+          "start": 40,
+          "url": "https://t.co/fQACxZnrR4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067240144709517457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/8500tLds4D https://t.co/fQACxZnrR4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2067240140599140352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBP9IXXIAA7F2m.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067240140599140352"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2067240144709517457",
+        "created_at": "2026-06-17T13:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067240144709517457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+              "display_url": "infinitetweet.me/dumb-ways-to-d…",
+              "end": 39,
+              "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2066529029595807745/wmPsjK6K?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066529029595807745/wmPsjK6K?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Dumb Ways to Die • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "url": "https://t.co/8500tLds4D"
+            },
+            {
+              "display_url": "pic.x.com/fQACxZnrR4",
+              "end": 63,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2067240144709517457/photo/1",
+              "media_key": "3_2067240140599140352",
+              "start": 40,
+              "url": "https://t.co/fQACxZnrR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067240144709517457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/8500tLds4D https://t.co/fQACxZnrR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 30,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 73,
+          "like_count": 2130,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}
