@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2083136308868939877",
+    "created_at": "2026-07-31T10:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083136308868939877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oksana222rc/st…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/oksana222rc/status/2083133026352120136",
+          "start": 82,
+          "url": "https://t.co/aFYVs8S5jI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083136308868939877",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083133026352120136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奈奈  \n往黄泉比良坡时想一些快乐的瞬间吧 记得把汤喝干净 那些令你痛苦的 令你失望的全部忘掉吧 有什么想说的就托梦给兴子 兴子还是港湾呢 . \nおやすみ 奈々. https://t.co/aFYVs8S5jI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2083136308868939877",
+        "created_at": "2026-07-31T10:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083136308868939877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oksana222rc/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/oksana222rc/status/2083133026352120136",
+              "start": 82,
+              "url": "https://t.co/aFYVs8S5jI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083136308868939877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083133026352120136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奈奈  \n往黄泉比良坡时想一些快乐的瞬间吧 记得把汤喝干净 那些令你痛苦的 令你失望的全部忘掉吧 有什么想说的就托梦给兴子 兴子还是港湾呢 . \nおやすみ 奈々. https://t.co/aFYVs8S5jI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2083133026352120136",
+        "created_at": "2026-07-31T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083133026352120136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1993150970705199108",
+              "start": 6,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083133026352120136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：奈奈（@Nana_naiiiiiii ）已于7月31日00:00左右自杀，宣布死亡。享年17岁。\n\n人世有别，山海长隔。自此以后，风月仍旧，人却不再。唯愿她此去安然，归于更辽阔的宁静；也愿留下的人，在漫长的时间里，学会与思念相处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.（Oksana💊附身版）",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 95,
+          "like_count": 3962,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "逃避追杀于是创立第二人格。\n大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "name": "Oksana的神秘实验室",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 10,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Oksana222RC",
+        "verified": false
+      }
+    ]
+  }
+}

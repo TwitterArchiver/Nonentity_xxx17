@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1919465517829783552",
+    "conversation_id": "2082886475008667895",
+    "created_at": "2026-07-30T17:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082886978820026797"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082886978820026797",
+    "in_reply_to_user_id": "1919465517829783552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082886475008667895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Oksana一拍照这个骚小兴就要挤进镜头。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082886467328921600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfmNNib0AAv5d9.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2082886475008667895",
+        "created_at": "2026-07-30T17:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082886978820026797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082886978820026797",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082886475008667895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Oksana一拍照这个骚小兴就要挤进镜头。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082886467328921600"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2082886475008667895",
+        "created_at": "2026-07-30T17:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082886475008667895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2ttENNBoK",
+              "end": 30,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2082886475008667895/photo/1",
+              "media_key": "3_2082886467328921600",
+              "start": 7,
+              "url": "https://t.co/Z2ttENNBoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082886475008667895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奸夫淫妇（？ https://t.co/Z2ttENNBoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.（Oksana💊附身版）",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 96,
+          "like_count": 3958,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

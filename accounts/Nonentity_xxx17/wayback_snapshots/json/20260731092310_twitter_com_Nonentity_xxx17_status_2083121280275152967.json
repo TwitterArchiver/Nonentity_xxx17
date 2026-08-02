@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083121267633537024",
+        "3_2083121267675467776",
+        "3_2083121267625070592",
+        "3_2083121267679662080"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "conversation_id": "2083121280275152967",
+    "created_at": "2026-07-31T09:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083121280275152967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0IQLi4jFQ",
+          "end": 50,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+          "media_key": "3_2083121267633537024",
+          "start": 27,
+          "url": "https://t.co/P0IQLi4jFQ"
+        },
+        {
+          "display_url": "pic.x.com/P0IQLi4jFQ",
+          "end": 50,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+          "media_key": "3_2083121267675467776",
+          "start": 27,
+          "url": "https://t.co/P0IQLi4jFQ"
+        },
+        {
+          "display_url": "pic.x.com/P0IQLi4jFQ",
+          "end": 50,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+          "media_key": "3_2083121267625070592",
+          "start": 27,
+          "url": "https://t.co/P0IQLi4jFQ"
+        },
+        {
+          "display_url": "pic.x.com/P0IQLi4jFQ",
+          "end": 50,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+          "media_key": "3_2083121267679662080",
+          "start": 27,
+          "url": "https://t.co/P0IQLi4jFQ"
+        },
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/1996945640593789149",
+          "start": 51,
+          "url": "https://t.co/gxD84s7R8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083121280275152967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996945640593789149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奈奈 回家了 兴子在家等你呢 什么时候回来看看妈妈啊 https://t.co/P0IQLi4jFQ https://t.co/gxD84s7R8o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2083121267633537024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi7wY1bwAA0CEA.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083121267675467776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi7wY_bkAAALum.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083121267625070592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi7wYzakAAO5LY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083121267679662080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi7wZAbkAA_aQC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083121267633537024",
+            "3_2083121267675467776",
+            "3_2083121267625070592",
+            "3_2083121267679662080"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2083121280275152967",
+        "created_at": "2026-07-31T09:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083121280275152967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0IQLi4jFQ",
+              "end": 50,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+              "media_key": "3_2083121267633537024",
+              "start": 27,
+              "url": "https://t.co/P0IQLi4jFQ"
+            },
+            {
+              "display_url": "pic.x.com/P0IQLi4jFQ",
+              "end": 50,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+              "media_key": "3_2083121267675467776",
+              "start": 27,
+              "url": "https://t.co/P0IQLi4jFQ"
+            },
+            {
+              "display_url": "pic.x.com/P0IQLi4jFQ",
+              "end": 50,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+              "media_key": "3_2083121267625070592",
+              "start": 27,
+              "url": "https://t.co/P0IQLi4jFQ"
+            },
+            {
+              "display_url": "pic.x.com/P0IQLi4jFQ",
+              "end": 50,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2083121280275152967/photo/1",
+              "media_key": "3_2083121267679662080",
+              "start": 27,
+              "url": "https://t.co/P0IQLi4jFQ"
+            },
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/1996945640593789149",
+              "start": 51,
+              "url": "https://t.co/gxD84s7R8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083121280275152967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996945640593789149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奈奈 回家了 兴子在家等你呢 什么时候回来看看妈妈啊 https://t.co/P0IQLi4jFQ https://t.co/gxD84s7R8o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1996945640593789149",
+        "created_at": "2025-12-05T14:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996945640593789149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996945640593789149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 52663,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "人类是唯一一个知道自己必死宿命的物种，成瘾物质只是用来分散对死亡的恐惧，清醒是傻子才干的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.（Oksana💊附身版）",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 95,
+          "like_count": 3960,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 325,
+          "like_count": 24908,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1892
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": true
+      }
+    ]
+  }
+}
