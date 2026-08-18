@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084161919100108800"
+      ]
+    },
+    "author_id": "1919465517829783552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084162165901304028",
+    "created_at": "2026-08-03T06:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084162165901304028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SiS1WAUElj",
+          "end": 23,
+          "expanded_url": "https://x.com/Nonentity_xxx17/status/2084162165901304028/photo/1",
+          "media_key": "3_2084161919100108800",
+          "start": 0,
+          "url": "https://t.co/SiS1WAUElj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084162165901304028",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SiS1WAUElj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084161919100108800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxuORpbwAA5FV8.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084161919100108800"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084162165901304028",
+        "created_at": "2026-08-03T06:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084162165901304028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiS1WAUElj",
+              "end": 23,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2084162165901304028/photo/1",
+              "media_key": "3_2084161919100108800",
+              "start": 0,
+              "url": "https://t.co/SiS1WAUElj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084162165901304028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SiS1WAUElj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n\n媳妇儿@Jinggebiezhuaw媳妇儿转世@Oksana222RC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "Jinggebiezhuaw"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "Oksana222RC"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.（Oksana💊附身版）",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 98,
+          "like_count": 3993,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}
