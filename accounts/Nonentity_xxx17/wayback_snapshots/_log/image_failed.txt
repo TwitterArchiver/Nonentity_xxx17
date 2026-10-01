@@ -31,11 +31,9 @@ https://pbs.twimg.com/media/HLjo23MboAAxXSq.jpg
 https://pbs.twimg.com/media/HLQvmpUa0AAA1tQ.jpg
 https://pbs.twimg.com/media/HK19cMnbgAAh56-.jpg
 https://pbs.twimg.com/media/HLrPADxaoAAjfFk.jpg
-https://pbs.twimg.com/media/HL_mfT6bMAAz1jm.jpg
 https://pbs.twimg.com/media/HK8UhcSb0AA_SbP.jpg
 https://pbs.twimg.com/media/HKtW5i0bwAALEIV.jpg
 https://pbs.twimg.com/media/HMGZsCTa0AAWAyp.jpg
-https://pbs.twimg.com/media/HMFcOZFaMAA3mDl.jpg
 https://pbs.twimg.com/media/HK_maoTa8AAnxB_.jpg
 https://pbs.twimg.com/media/HMN_fIkaMAAtjhE.jpg
 https://pbs.twimg.com/media/HMLKSTsa8AAI5OK.jpg
@@ -43,7 +41,6 @@ https://pbs.twimg.com/media/HK19cMkaoAE7fJs.jpg
 https://pbs.twimg.com/media/HLzeltsaMAAgcB5.jpg
 https://pbs.twimg.com/media/HKaPq3WaAAAcFYP.jpg
 https://pbs.twimg.com/media/HM5VzchaUAAU_yy.jpg
-https://pbs.twimg.com/media/HLyObx4bAAA2oDs.jpg
 https://pbs.twimg.com/media/HNEVvjLasAAtcN0.jpg
 https://pbs.twimg.com/media/HNnamEbaUAAw64F.jpg
 https://pbs.twimg.com/media/HNesZyGbUAA6GfU.jpg
@@ -54,18 +51,14 @@ https://pbs.twimg.com/media/HNuUO44bIAAfbII.jpg
 https://pbs.twimg.com/media/HNqDKl7aEAAe_gU.jpg
 https://pbs.twimg.com/media/HLzeltiawAAUXAM.jpg
 https://pbs.twimg.com/media/HK19cMlaAAAwTcM.jpg
-https://pbs.twimg.com/media/HMFcOZGaUAA8tdq.jpg
 https://pbs.twimg.com/media/HOEKaGLbAAA38wy.jpg
-https://pbs.twimg.com/media/HLyObx2bwAAWu87.jpg
 https://pbs.twimg.com/media/HOSdM-Aa0AAu5G2.jpg
 https://pbs.twimg.com/media/HNesZyKawAAksaU.jpg
 https://pbs.twimg.com/media/HML0reobIAANagJ.jpg
 https://pbs.twimg.com/media/HOEKaGHbAAAmSux.jpg
 https://pbs.twimg.com/media/HOPGHyKbgAABH2R.jpg
-https://pbs.twimg.com/media/HMFcOZEaMAAqXA-.jpg
 https://pbs.twimg.com/media/HNesZyMa0AA8rFK.jpg
 https://pbs.twimg.com/media/HOEKaGHbIAA-Qk9.jpg
-https://pbs.twimg.com/media/HNesZyHaYAAW_wO.jpg
 https://pbs.twimg.com/media/HOEKaGRbkAAtU5E.jpg
 https://pbs.twimg.com/media/HLe1nU2agAAfy4W.jpg
 https://pbs.twimg.com/media/HKaPq3YawAAloNH.jpg
@@ -79,3 +72,6 @@ https://pbs.twimg.com/media/HNRvMWoawAAiFcd.jpg
 https://pbs.twimg.com/media/HOz7NA3akAAyVlU.jpg
 https://pbs.twimg.com/media/HLzuqfeaoAAMrKh.jpg
 https://pbs.twimg.com/media/HLzeltma4AA78yL.jpg
+https://pbs.twimg.com/media/HNRvMX-bQAAZL_S.jpg
+https://pbs.twimg.com/media/HNRvMVqaEAAnd4S.jpg
+https://pbs.twimg.com/media/HNRvMVubMAA8gO4.jpg
